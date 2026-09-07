@@ -10,9 +10,10 @@
 | **Dashboard** | Pusat Pemantauan Retensi Mahasiswa (Metabase **v0.63.10**, 18 visualisasi, 4 penyaring) |
 | **Model** | Regresi Logistik untuk horizon gerbang, Extra Trees untuk horizon tahun pertama |
 | **Prototipe** | Streamlit, empat ruang kerja |
-| **Tautan prototipe** | <PLACEHOLDER_URL_STREAMLIT> |
+| **Tautan prototipe** | <https://souba676-peringatan-dini-jji.streamlit.app/> |
+| **Repositori** | <https://github.com/shabir67/submission-jji-retensi-mahasiswa> |
 
-> **Tautan prototipe Streamlit Community Cloud:** <PLACEHOLDER_URL_STREAMLIT>
+> **Tautan prototipe Streamlit Community Cloud:** <https://souba676-peringatan-dini-jji.streamlit.app/>
 >
 > Akun masuk tidak diperlukan, aplikasi dapat langsung dicoba. Berkas contoh
 > `dataset/mahasiswa_aktif.csv` sudah disertakan di dalam repositori sehingga seluruh
@@ -443,7 +444,7 @@ dicoba tanpa mengunggah apa pun.
 Prototipe sudah dihubungkan ke Streamlit Community Cloud dan dapat diakses secara remote
 lewat tautan berikut:
 
-**<PLACEHOLDER_URL_STREAMLIT>**
+**<https://souba676-peringatan-dini-jji.streamlit.app/>**
 
 Langkah penyebaran yang dipakai:
 
