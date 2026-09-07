@@ -1,0 +1,795 @@
+id_mahasiswa;Course;Age_at_enrollment;Gender;Debtor;Tuition_fees_up_to_date;Scholarship_holder;program_studi;skor_gerbang;pita_gerbang;skor_tahun_pertama;pita_tahun_pertama;kenaikan_risiko
+MHS0787;9238;20;0;0;1;0;Pekerjaan Sosial;0.1213;Aman;0.9801;Kritis;0.8588
+MHS0488;9670;19;1;0;1;0;Manajemen Periklanan dan Pemasaran;0.4666;Prioritas;0.9801;Kritis;0.5135
+MHS0044;9773;18;0;0;1;0;Jurnalisme dan Komunikasi;0.2149;Aman;0.9801;Kritis;0.7652
+MHS0616;9147;18;0;0;1;0;Manajemen;0.3699;Prioritas;0.9801;Kritis;0.6102
+MHS0168;9238;31;0;0;1;0;Pekerjaan Sosial;0.2519;Prioritas;0.9801;Kritis;0.7282
+MHS0157;9119;18;1;1;0;0;Teknik Informatika;0.9938;Kritis;0.9801;Kritis;-0.0137
+MHS0554;9119;27;1;1;0;0;Teknik Informatika;0.9921;Kritis;0.9801;Kritis;-0.012
+MHS0353;9991;34;0;0;1;0;Manajemen (kelas malam);0.4108;Prioritas;0.9801;Kritis;0.5693
+MHS0498;9003;23;1;0;1;0;Agronomi;0.3814;Prioritas;0.9801;Kritis;0.5987
+MHS0510;9991;29;1;0;1;0;Manajemen (kelas malam);0.6294;Prioritas;0.9801;Kritis;0.3507
+MHS0326;9147;19;0;0;1;0;Manajemen;0.3737;Prioritas;0.9801;Kritis;0.6064
+MHS0015;9070;24;1;0;1;0;Desain Komunikasi;0.3255;Prioritas;0.9801;Kritis;0.6546
+MHS0753;9991;20;0;0;1;0;Manajemen (kelas malam);0.2374;Prioritas;0.9801;Kritis;0.7427
+MHS0030;9147;22;0;1;0;0;Manajemen;0.9596;Kritis;0.98;Kritis;0.0204
+MHS0674;9003;19;1;0;1;0;Agronomi;0.3507;Prioritas;0.98;Kritis;0.6293
+MHS0391;9085;25;1;1;0;0;Keperawatan Hewan;0.9767;Kritis;0.98;Kritis;0.0033
+MHS0649;9147;19;1;0;1;0;Manajemen;0.4976;Prioritas;0.9799;Kritis;0.4823
+MHS0458;9238;20;0;0;1;0;Pekerjaan Sosial;0.1564;Aman;0.9799;Kritis;0.8235
+MHS0017;9147;18;1;0;1;0;Manajemen;0.503;Prioritas;0.9798;Kritis;0.4768
+MHS0772;9085;21;1;0;1;0;Keperawatan Hewan;0.4252;Prioritas;0.9798;Kritis;0.5546
+MHS0647;9119;18;1;0;1;0;Teknik Informatika;0.634;Prioritas;0.9798;Kritis;0.3458
+MHS0425;9119;20;1;0;1;0;Teknik Informatika;0.8205;Kritis;0.9798;Kritis;0.1593
+MHS0207;9119;25;1;0;1;0;Teknik Informatika;0.9141;Kritis;0.9798;Kritis;0.0657
+MHS0020;9119;18;1;1;1;0;Teknik Informatika;0.8447;Kritis;0.9798;Kritis;0.1351
+MHS0699;9070;22;1;0;1;0;Desain Komunikasi;0.5078;Prioritas;0.9797;Kritis;0.4719
+MHS0538;9500;18;0;0;1;0;Keperawatan;0.1399;Aman;0.9796;Kritis;0.8397
+MHS0375;9238;19;0;0;1;0;Pekerjaan Sosial;0.1134;Aman;0.9794;Kritis;0.866
+MHS0646;9500;33;1;0;1;0;Keperawatan;0.6533;Kritis;0.9794;Kritis;0.3261
+MHS0631;9003;27;1;0;1;0;Agronomi;0.2321;Prioritas;0.9794;Kritis;0.7473
+MHS0265;9147;18;1;1;1;0;Manajemen;0.5177;Prioritas;0.9794;Kritis;0.4617
+MHS0268;9130;20;0;1;0;0;Manajemen Kuda;0.9797;Kritis;0.9793;Kritis;-0.0004
+MHS0411;9119;19;1;0;1;0;Teknik Informatika;0.6343;Prioritas;0.9793;Kritis;0.345
+MHS0485;9119;20;1;1;1;0;Teknik Informatika;0.7128;Kritis;0.9793;Kritis;0.2665
+MHS0707;9147;23;1;0;1;0;Manajemen;0.5012;Prioritas;0.9792;Kritis;0.478
+MHS0333;9119;34;1;0;1;0;Teknik Informatika;0.8786;Kritis;0.9791;Kritis;0.1005
+MHS0001;9238;18;0;0;1;0;Pekerjaan Sosial;0.1533;Aman;0.9791;Kritis;0.8258
+MHS0038;8014;23;0;0;1;0;Pekerjaan Sosial (kelas malam);0.1227;Aman;0.9791;Kritis;0.8564
+MHS0415;9119;24;1;1;1;0;Teknik Informatika;0.939;Kritis;0.979;Kritis;0.04
+MHS0396;9003;20;1;0;1;0;Agronomi;0.4926;Prioritas;0.979;Kritis;0.4864
+MHS0059;9003;30;0;1;1;1;Agronomi;0.212;Aman;0.979;Kritis;0.767
+MHS0482;9003;26;1;1;1;0;Agronomi;0.5484;Prioritas;0.9789;Kritis;0.4305
+MHS0533;8014;34;0;0;1;0;Pekerjaan Sosial (kelas malam);0.3688;Prioritas;0.9787;Kritis;0.6099
+MHS0170;9119;24;1;0;1;0;Teknik Informatika;0.8562;Kritis;0.9787;Kritis;0.1225
+MHS0208;9670;21;0;1;1;0;Manajemen Periklanan dan Pemasaran;0.218;Aman;0.9786;Kritis;0.7606
+MHS0008;9147;18;1;0;0;0;Manajemen;0.8591;Kritis;0.9786;Kritis;0.1195
+MHS0490;9556;26;0;0;1;1;Kesehatan Gigi dan Mulut;0.1523;Aman;0.9786;Kritis;0.8263
+MHS0300;9085;24;0;1;0;0;Keperawatan Hewan;0.9507;Kritis;0.9786;Kritis;0.0279
+MHS0163;9085;28;0;1;1;0;Keperawatan Hewan;0.3905;Prioritas;0.9785;Kritis;0.588
+MHS0713;9500;20;0;0;1;1;Keperawatan;0.0322;Aman;0.9785;Kritis;0.9463
+MHS0659;9238;20;0;0;1;0;Pekerjaan Sosial;0.1397;Aman;0.9783;Kritis;0.8386
+MHS0750;9147;18;0;0;1;0;Manajemen;0.362;Prioritas;0.9781;Kritis;0.6161
+MHS0171;9119;18;1;1;0;0;Teknik Informatika;0.9891;Kritis;0.978;Kritis;-0.0111
+MHS0347;9500;20;0;0;1;1;Keperawatan;0.074;Aman;0.9779;Kritis;0.9039
+MHS0507;9773;23;0;0;1;0;Jurnalisme dan Komunikasi;0.4659;Prioritas;0.9778;Kritis;0.5119
+MHS0404;9119;23;1;0;1;0;Teknik Informatika;0.8348;Kritis;0.9778;Kritis;0.143
+MHS0092;9070;18;0;0;1;0;Desain Komunikasi;0.1446;Aman;0.9778;Kritis;0.8332
+MHS0308;9119;20;1;0;1;0;Teknik Informatika;0.7797;Kritis;0.9778;Kritis;0.1981
+MHS0598;9773;21;1;0;1;0;Jurnalisme dan Komunikasi;0.4927;Prioritas;0.9777;Kritis;0.485
+MHS0033;9003;47;0;1;1;0;Agronomi;0.3739;Prioritas;0.9774;Kritis;0.6035
+MHS0493;9130;21;0;0;1;0;Manajemen Kuda;0.4377;Prioritas;0.9774;Kritis;0.5397
+MHS0312;9147;32;1;1;1;0;Manajemen;0.7663;Kritis;0.9773;Kritis;0.211
+MHS0601;9119;19;1;0;1;0;Teknik Informatika;0.4501;Prioritas;0.9772;Kritis;0.5271
+MHS0743;9147;20;0;0;1;0;Manajemen;0.2544;Prioritas;0.9772;Kritis;0.7228
+MHS0466;9147;23;0;0;1;0;Manajemen;0.5027;Prioritas;0.9771;Kritis;0.4744
+MHS0776;9119;18;1;0;1;0;Teknik Informatika;0.5599;Prioritas;0.9771;Kritis;0.4172
+MHS0438;9147;27;1;0;1;0;Manajemen;0.3829;Prioritas;0.9769;Kritis;0.594
+MHS0395;9500;21;1;0;1;1;Keperawatan;0.0865;Aman;0.9769;Kritis;0.8904
+MHS0416;9119;22;1;0;1;0;Teknik Informatika;0.7404;Kritis;0.9765;Kritis;0.2361
+MHS0070;9085;21;0;0;1;0;Keperawatan Hewan;0.2159;Aman;0.9764;Kritis;0.7605
+MHS0689;9119;18;1;0;1;0;Teknik Informatika;0.5759;Prioritas;0.9763;Kritis;0.4004
+MHS0709;9147;19;0;1;1;0;Manajemen;0.5618;Prioritas;0.9762;Kritis;0.4144
+MHS0641;9991;38;1;0;1;0;Manajemen (kelas malam);0.7304;Kritis;0.9757;Kritis;0.2453
+MHS0164;9147;18;0;0;1;0;Manajemen;0.3163;Prioritas;0.9756;Kritis;0.6593
+MHS0246;9670;19;1;0;1;0;Manajemen Periklanan dan Pemasaran;0.1831;Aman;0.9756;Kritis;0.7925
+MHS0079;9130;18;0;1;1;0;Manajemen Kuda;0.6776;Kritis;0.975;Kritis;0.2974
+MHS0463;9147;24;0;0;1;0;Manajemen;0.3194;Prioritas;0.9749;Kritis;0.6555
+MHS0389;9254;19;1;0;1;0;Pariwisata;0.4556;Prioritas;0.9748;Kritis;0.5192
+MHS0073;9254;20;0;0;1;0;Pariwisata;0.4771;Prioritas;0.9747;Kritis;0.4976
+MHS0656;9119;19;1;0;1;0;Teknik Informatika;0.7492;Kritis;0.9744;Kritis;0.2252
+MHS0335;9500;48;0;0;1;0;Keperawatan;0.2373;Prioritas;0.9743;Kritis;0.737
+MHS0093;9119;24;1;0;1;0;Teknik Informatika;0.9132;Kritis;0.9741;Kritis;0.0609
+MHS0673;9147;20;1;0;1;0;Manajemen;0.4618;Prioritas;0.974;Kritis;0.5122
+MHS0780;9773;20;0;0;1;0;Jurnalisme dan Komunikasi;0.2442;Prioritas;0.9736;Kritis;0.7294
+MHS0603;9119;20;1;0;1;0;Teknik Informatika;0.7709;Kritis;0.973;Kritis;0.2021
+MHS0076;9147;20;0;0;1;0;Manajemen;0.5433;Prioritas;0.9729;Kritis;0.4296
+MHS0428;9773;22;1;0;1;0;Jurnalisme dan Komunikasi;0.4754;Prioritas;0.9728;Kritis;0.4974
+MHS0779;9147;21;0;0;1;0;Manajemen;0.2189;Aman;0.9728;Kritis;0.7539
+MHS0293;9119;19;1;0;1;0;Teknik Informatika;0.522;Prioritas;0.9728;Kritis;0.4508
+MHS0794;33;25;1;0;1;0;Teknologi Produksi Biofuel;0.5303;Prioritas;0.9727;Kritis;0.4424
+MHS0792;9070;20;1;0;1;0;Desain Komunikasi;0.2733;Prioritas;0.9724;Kritis;0.6991
+MHS0127;9085;20;1;0;0;0;Keperawatan Hewan;0.9116;Kritis;0.9724;Kritis;0.0608
+MHS0277;9147;18;1;0;1;0;Manajemen;0.4781;Prioritas;0.9723;Kritis;0.4942
+MHS0338;9085;21;0;0;1;0;Keperawatan Hewan;0.4275;Prioritas;0.9719;Kritis;0.5444
+MHS0242;9119;19;0;1;1;0;Teknik Informatika;0.3163;Prioritas;0.9716;Kritis;0.6553
+MHS0752;9853;18;0;1;1;0;Pendidikan Dasar;0.8007;Kritis;0.9714;Kritis;0.1707
+MHS0014;9070;19;1;0;1;0;Desain Komunikasi;0.3681;Prioritas;0.971;Kritis;0.6029
+MHS0169;9119;18;1;0;1;0;Teknik Informatika;0.5164;Prioritas;0.971;Kritis;0.4546
+MHS0633;9130;20;1;0;1;0;Manajemen Kuda;0.671;Kritis;0.9708;Kritis;0.2998
+MHS0605;9991;26;1;0;1;0;Manajemen (kelas malam);0.3854;Prioritas;0.9708;Kritis;0.5854
+MHS0427;9147;18;1;0;1;0;Manajemen;0.3469;Prioritas;0.9705;Kritis;0.6236
+MHS0441;9130;19;1;0;1;0;Manajemen Kuda;0.7462;Kritis;0.9704;Kritis;0.2242
+MHS0220;9085;21;0;0;1;0;Keperawatan Hewan;0.228;Prioritas;0.9703;Kritis;0.7423
+MHS0135;9147;40;1;1;1;0;Manajemen;0.5157;Prioritas;0.9703;Kritis;0.4546
+MHS0270;9556;19;0;1;1;0;Kesehatan Gigi dan Mulut;0.2079;Aman;0.9701;Kritis;0.7622
+MHS0078;9556;18;0;0;1;0;Kesehatan Gigi dan Mulut;0.4174;Prioritas;0.97;Kritis;0.5526
+MHS0119;9238;21;0;0;1;0;Pekerjaan Sosial;0.0994;Aman;0.9699;Kritis;0.8705
+MHS0144;9147;20;0;1;1;0;Manajemen;0.6977;Kritis;0.9697;Kritis;0.272
+MHS0635;9670;21;1;0;1;0;Manajemen Periklanan dan Pemasaran;0.4447;Prioritas;0.9697;Kritis;0.525
+MHS0444;9147;20;1;0;1;0;Manajemen;0.5528;Prioritas;0.9696;Kritis;0.4168
+MHS0101;9147;20;1;0;1;0;Manajemen;0.7311;Kritis;0.9691;Kritis;0.238
+MHS0068;9238;19;0;0;1;0;Pekerjaan Sosial;0.0963;Aman;0.9689;Kritis;0.8726
+MHS0716;9556;20;0;0;1;0;Kesehatan Gigi dan Mulut;0.0465;Aman;0.9688;Kritis;0.9223
+MHS0439;9119;18;1;0;1;0;Teknik Informatika;0.5429;Prioritas;0.9686;Kritis;0.4257
+MHS0595;171;19;1;0;1;0;Desain Animasi dan Multimedia;0.4004;Prioritas;0.9684;Kritis;0.568
+MHS0514;9773;18;0;0;1;0;Jurnalisme dan Komunikasi;0.4446;Prioritas;0.9683;Kritis;0.5237
+MHS0742;9085;44;0;0;0;1;Keperawatan Hewan;0.6559;Kritis;0.9682;Kritis;0.3123
+MHS0324;9085;19;0;0;0;0;Keperawatan Hewan;0.8203;Kritis;0.9681;Kritis;0.1478
+MHS0337;9070;19;0;0;1;0;Desain Komunikasi;0.1392;Aman;0.9681;Kritis;0.8289
+MHS0161;9991;37;0;0;1;0;Manajemen (kelas malam);0.6248;Prioritas;0.9675;Kritis;0.3427
+MHS0661;9238;21;0;1;1;0;Pekerjaan Sosial;0.2203;Prioritas;0.9673;Kritis;0.747
+MHS0652;9003;22;1;0;1;0;Agronomi;0.4234;Prioritas;0.9672;Kritis;0.5438
+MHS0152;9119;18;1;0;1;0;Teknik Informatika;0.6473;Prioritas;0.9671;Kritis;0.3198
+MHS0261;9003;39;0;0;1;0;Agronomi;0.5867;Prioritas;0.967;Kritis;0.3803
+MHS0681;9085;23;0;0;1;0;Keperawatan Hewan;0.3359;Prioritas;0.9668;Kritis;0.6309
+MHS0301;9500;33;1;0;1;1;Keperawatan;0.1391;Aman;0.9666;Kritis;0.8275
+MHS0122;9238;18;0;1;1;0;Pekerjaan Sosial;0.2354;Prioritas;0.9665;Kritis;0.7311
+MHS0090;9500;27;0;0;1;0;Keperawatan;0.2398;Prioritas;0.9663;Kritis;0.7265
+MHS0688;9003;22;1;0;1;0;Agronomi;0.4335;Prioritas;0.9662;Kritis;0.5327
+MHS0523;9991;50;0;0;1;0;Manajemen (kelas malam);0.5224;Prioritas;0.9659;Kritis;0.4435
+MHS0469;9254;22;0;0;1;0;Pariwisata;0.4181;Prioritas;0.9659;Kritis;0.5478
+MHS0102;9254;23;1;1;1;0;Pariwisata;0.8063;Kritis;0.9658;Kritis;0.1595
+MHS0455;9119;18;1;0;1;0;Teknik Informatika;0.5711;Prioritas;0.9652;Kritis;0.3941
+MHS0596;9119;34;1;1;1;1;Teknik Informatika;0.7825;Kritis;0.9651;Kritis;0.1826
+MHS0670;9254;19;1;0;1;0;Pariwisata;0.5232;Prioritas;0.9647;Kritis;0.4415
+MHS0037;9238;21;0;1;0;0;Pekerjaan Sosial;0.8936;Kritis;0.9644;Kritis;0.0708
+MHS0252;9119;20;1;0;1;0;Teknik Informatika;0.6774;Kritis;0.9643;Kritis;0.2869
+MHS0378;9119;18;1;0;1;0;Teknik Informatika;0.773;Kritis;0.9642;Kritis;0.1912
+MHS0153;9556;23;1;0;1;0;Kesehatan Gigi dan Mulut;0.2885;Prioritas;0.9642;Kritis;0.6757
+MHS0634;9773;23;1;0;1;0;Jurnalisme dan Komunikasi;0.467;Prioritas;0.964;Kritis;0.497
+MHS0682;9556;25;0;0;1;0;Kesehatan Gigi dan Mulut;0.2831;Prioritas;0.9638;Kritis;0.6807
+MHS0534;9500;19;0;0;1;0;Keperawatan;0.1649;Aman;0.963;Kritis;0.7981
+MHS0448;9119;20;1;0;1;0;Teknik Informatika;0.3842;Prioritas;0.963;Kritis;0.5788
+MHS0693;9238;20;1;0;1;0;Pekerjaan Sosial;0.3007;Prioritas;0.9625;Kritis;0.6618
+MHS0215;9254;26;1;0;1;0;Pariwisata;0.5649;Prioritas;0.9621;Kritis;0.3972
+MHS0600;9670;20;1;1;0;0;Manajemen Periklanan dan Pemasaran;0.9738;Kritis;0.9619;Kritis;-0.0119
+MHS0748;9853;20;0;0;1;0;Pendidikan Dasar;0.7064;Kritis;0.9619;Kritis;0.2555
+MHS0676;9254;21;1;0;1;0;Pariwisata;0.5708;Prioritas;0.9612;Kritis;0.3904
+MHS0520;9670;22;0;0;1;0;Manajemen Periklanan dan Pemasaran;0.1617;Aman;0.9605;Kritis;0.7988
+MHS0115;9147;18;0;0;1;0;Manajemen;0.3047;Prioritas;0.9604;Kritis;0.6557
+MHS0630;9238;28;1;1;1;0;Pekerjaan Sosial;0.6981;Kritis;0.9602;Kritis;0.2621
+MHS0433;9085;21;1;0;1;0;Keperawatan Hewan;0.3495;Prioritas;0.9601;Kritis;0.6106
+MHS0383;9147;22;1;0;1;0;Manajemen;0.5646;Prioritas;0.96;Kritis;0.3954
+MHS0074;9773;19;0;0;1;0;Jurnalisme dan Komunikasi;0.1943;Aman;0.9584;Kritis;0.7641
+MHS0548;9147;19;0;0;1;0;Manajemen;0.4603;Prioritas;0.9583;Kritis;0.498
+MHS0669;9130;33;1;0;1;0;Manajemen Kuda;0.6305;Prioritas;0.9582;Kritis;0.3277
+MHS0297;9119;18;1;0;1;0;Teknik Informatika;0.5259;Prioritas;0.958;Kritis;0.4321
+MHS0175;9085;22;0;0;1;0;Keperawatan Hewan;0.2577;Prioritas;0.9579;Kritis;0.7002
+MHS0318;9147;19;1;1;1;0;Manajemen;0.601;Prioritas;0.9575;Kritis;0.3565
+MHS0452;9003;19;0;0;1;0;Agronomi;0.1856;Aman;0.956;Kritis;0.7704
+MHS0576;9147;21;1;0;1;0;Manajemen;0.5146;Prioritas;0.9556;Kritis;0.441
+MHS0327;9085;21;0;0;1;0;Keperawatan Hewan;0.2597;Prioritas;0.9553;Kritis;0.6956
+MHS0454;9119;18;1;1;1;0;Teknik Informatika;0.862;Kritis;0.9553;Kritis;0.0933
+MHS0349;9853;18;0;1;1;0;Pendidikan Dasar;0.8234;Kritis;0.9549;Kritis;0.1315
+MHS0711;9254;22;0;0;1;0;Pariwisata;0.2887;Prioritas;0.9549;Kritis;0.6662
+MHS0392;9991;37;1;0;1;0;Manajemen (kelas malam);0.5524;Prioritas;0.9543;Kritis;0.4019
+MHS0487;9670;21;1;1;0;0;Manajemen Periklanan dan Pemasaran;0.9247;Kritis;0.9528;Kritis;0.0281
+MHS0496;9238;18;0;0;1;0;Pekerjaan Sosial;0.2018;Aman;0.9525;Kritis;0.7507
+MHS0066;9085;21;0;0;1;0;Keperawatan Hewan;0.2877;Prioritas;0.9525;Kritis;0.6648
+MHS0103;9130;20;1;0;1;0;Manajemen Kuda;0.4127;Prioritas;0.9524;Kritis;0.5397
+MHS0116;9147;18;0;0;1;0;Manajemen;0.2456;Prioritas;0.9524;Kritis;0.7068
+MHS0403;9119;19;1;0;1;0;Teknik Informatika;0.8505;Kritis;0.9501;Kritis;0.0996
+MHS0570;9147;18;0;0;1;0;Manajemen;0.2624;Prioritas;0.9492;Kritis;0.6868
+MHS0009;9991;24;0;0;1;0;Manajemen (kelas malam);0.2606;Prioritas;0.9491;Kritis;0.6885
+MHS0381;9070;19;1;0;1;0;Desain Komunikasi;0.4377;Prioritas;0.9491;Kritis;0.5114
+MHS0492;9085;21;0;0;1;0;Keperawatan Hewan;0.3399;Prioritas;0.949;Kritis;0.6091
+MHS0238;9254;19;0;0;1;0;Pariwisata;0.2159;Aman;0.9489;Kritis;0.733
+MHS0502;9991;25;0;0;1;0;Manajemen (kelas malam);0.4705;Prioritas;0.9475;Kritis;0.477
+MHS0436;171;18;1;1;0;0;Desain Animasi dan Multimedia;0.9713;Kritis;0.9457;Kritis;-0.0256
+MHS0294;9773;19;1;0;1;0;Jurnalisme dan Komunikasi;0.3753;Prioritas;0.9451;Kritis;0.5698
+MHS0160;9238;20;0;0;1;0;Pekerjaan Sosial;0.2463;Prioritas;0.9423;Kritis;0.696
+MHS0763;9238;22;1;0;1;0;Pekerjaan Sosial;0.2664;Prioritas;0.942;Kritis;0.6756
+MHS0663;9085;26;0;0;1;0;Keperawatan Hewan;0.3434;Prioritas;0.9405;Kritis;0.5971
+MHS0399;9085;21;1;0;0;0;Keperawatan Hewan;0.9057;Kritis;0.9399;Kritis;0.0342
+MHS0221;9085;18;0;0;1;0;Keperawatan Hewan;0.178;Aman;0.9381;Kritis;0.7601
+MHS0341;9085;20;0;0;1;0;Keperawatan Hewan;0.3094;Prioritas;0.938;Kritis;0.6286
+MHS0089;9070;18;0;0;0;0;Desain Komunikasi;0.7995;Kritis;0.9375;Kritis;0.138
+MHS0608;9085;19;0;0;1;0;Keperawatan Hewan;0.1994;Aman;0.937;Kritis;0.7376
+MHS0568;9130;20;0;0;1;0;Manajemen Kuda;0.4317;Prioritas;0.9367;Kritis;0.505
+MHS0219;9147;18;0;0;1;0;Manajemen;0.4152;Prioritas;0.9364;Kritis;0.5212
+MHS0401;9003;21;1;0;1;0;Agronomi;0.267;Prioritas;0.9358;Kritis;0.6688
+MHS0331;9254;19;1;0;1;0;Pariwisata;0.5606;Prioritas;0.9358;Kritis;0.3752
+MHS0305;9254;19;1;0;1;0;Pariwisata;0.5959;Prioritas;0.9358;Kritis;0.3399
+MHS0572;9070;20;1;0;1;1;Desain Komunikasi;0.1131;Aman;0.9353;Kritis;0.8222
+MHS0350;9238;20;0;1;1;0;Pekerjaan Sosial;0.4104;Prioritas;0.9348;Kritis;0.5244
+MHS0154;9147;22;1;0;0;0;Manajemen;0.9519;Kritis;0.9344;Kritis;-0.0175
+MHS0522;9085;25;0;0;1;1;Keperawatan Hewan;0.1216;Aman;0.9341;Kritis;0.8125
+MHS0332;9991;27;1;0;1;0;Manajemen (kelas malam);0.6391;Prioritas;0.9333;Kritis;0.2942
+MHS0393;9119;19;1;0;1;0;Teknik Informatika;0.7812;Kritis;0.9328;Kritis;0.1516
+MHS0346;9085;24;0;1;0;0;Keperawatan Hewan;0.9118;Kritis;0.9304;Kritis;0.0186
+MHS0357;9991;34;0;0;1;0;Manajemen (kelas malam);0.2472;Prioritas;0.93;Kritis;0.6828
+MHS0316;9254;19;1;0;1;0;Pariwisata;0.622;Prioritas;0.9294;Kritis;0.3074
+MHS0367;9085;18;0;0;1;0;Keperawatan Hewan;0.2109;Aman;0.9289;Kritis;0.718
+MHS0445;9773;20;1;0;1;0;Jurnalisme dan Komunikasi;0.5379;Prioritas;0.9288;Kritis;0.3909
+MHS0274;9070;18;0;0;1;0;Desain Komunikasi;0.1376;Aman;0.9265;Kritis;0.7889
+MHS0768;9070;18;1;0;1;0;Desain Komunikasi;0.4028;Prioritas;0.9262;Kritis;0.5234
+MHS0368;9085;19;0;0;1;0;Keperawatan Hewan;0.2522;Prioritas;0.9251;Kritis;0.6729
+MHS0387;9119;18;1;0;1;0;Teknik Informatika;0.8334;Kritis;0.9228;Kritis;0.0894
+MHS0715;9147;19;0;0;1;0;Manajemen;0.3699;Prioritas;0.9216;Kritis;0.5517
+MHS0757;9853;22;0;0;1;0;Pendidikan Dasar;0.5811;Prioritas;0.9196;Kritis;0.3385
+MHS0648;9147;19;1;1;0;0;Manajemen;0.9806;Kritis;0.9191;Kritis;-0.0615
+MHS0187;9991;25;0;0;1;0;Manajemen (kelas malam);0.3991;Prioritas;0.9191;Kritis;0.52
+MHS0289;9085;20;0;0;1;0;Keperawatan Hewan;0.1356;Aman;0.9178;Kritis;0.7822
+MHS0359;9500;22;1;0;1;0;Keperawatan;0.2485;Prioritas;0.9167;Kritis;0.6682
+MHS0145;9130;23;0;1;0;0;Manajemen Kuda;0.9368;Kritis;0.9131;Kritis;-0.0237
+MHS0222;9238;20;0;0;1;0;Pekerjaan Sosial;0.2384;Prioritas;0.9117;Kritis;0.6733
+MHS0499;9003;20;1;0;1;0;Agronomi;0.2066;Aman;0.9097;Kritis;0.7031
+MHS0099;9670;22;1;1;1;0;Manajemen Periklanan dan Pemasaran;0.3787;Prioritas;0.9085;Kritis;0.5298
+MHS0366;9070;18;0;0;1;0;Desain Komunikasi;0.1185;Aman;0.9044;Kritis;0.7859
+MHS0345;9238;18;0;0;1;0;Pekerjaan Sosial;0.1943;Aman;0.9037;Kritis;0.7094
+MHS0120;9085;23;0;0;0;0;Keperawatan Hewan;0.7865;Kritis;0.9025;Kritis;0.116
+MHS0372;9130;18;0;1;0;0;Manajemen Kuda;0.9643;Kritis;0.9003;Kritis;-0.064
+MHS0435;9500;34;1;0;1;0;Keperawatan;0.6172;Prioritas;0.8986;Kritis;0.2814
+MHS0727;9085;21;0;1;1;0;Keperawatan Hewan;0.2602;Prioritas;0.8972;Kritis;0.637
+MHS0278;9147;19;1;0;1;0;Manajemen;0.5368;Prioritas;0.8968;Kritis;0.36
+MHS0231;9085;21;1;0;1;0;Keperawatan Hewan;0.2682;Prioritas;0.895;Kritis;0.6268
+MHS0184;9853;18;0;0;1;0;Pendidikan Dasar;0.4519;Prioritas;0.894;Kritis;0.4421
+MHS0027;9147;20;0;0;1;0;Manajemen;0.3884;Prioritas;0.8932;Kritis;0.5048
+MHS0314;9147;24;0;0;1;0;Manajemen;0.4201;Prioritas;0.8929;Kritis;0.4728
+MHS0056;9147;26;0;0;1;0;Manajemen;0.3734;Prioritas;0.8879;Kritis;0.5145
+MHS0684;9003;20;1;0;1;1;Agronomi;0.1213;Aman;0.8866;Kritis;0.7653
+MHS0095;9147;20;1;0;1;0;Manajemen;0.4516;Prioritas;0.8853;Kritis;0.4337
+MHS0640;9085;19;1;0;0;0;Keperawatan Hewan;0.9002;Kritis;0.8834;Kritis;-0.0168
+MHS0769;9085;18;1;0;1;0;Keperawatan Hewan;0.3593;Prioritas;0.8831;Kritis;0.5238
+MHS0625;9500;38;0;0;1;0;Keperawatan;0.2248;Prioritas;0.8828;Kritis;0.658
+MHS0691;9070;34;1;0;1;0;Desain Komunikasi;0.3422;Prioritas;0.881;Kritis;0.5388
+MHS0282;9254;18;1;0;1;0;Pariwisata;0.4074;Prioritas;0.8756;Kritis;0.4682
+MHS0434;8014;39;1;0;1;0;Pekerjaan Sosial (kelas malam);0.3051;Prioritas;0.8754;Kritis;0.5703
+MHS0501;8014;26;0;0;1;1;Pekerjaan Sosial (kelas malam);0.1121;Aman;0.8745;Kritis;0.7624
+MHS0342;9853;18;0;0;1;0;Pendidikan Dasar;0.4403;Prioritas;0.8736;Kritis;0.4333
+MHS0703;9238;22;0;0;1;0;Pekerjaan Sosial;0.1088;Aman;0.8711;Kritis;0.7623
+MHS0306;9003;21;1;0;1;0;Agronomi;0.389;Prioritas;0.8695;Kritis;0.4805
+MHS0771;9119;18;1;0;1;0;Teknik Informatika;0.7081;Kritis;0.8687;Kritis;0.1606
+MHS0097;9147;20;1;0;1;0;Manajemen;0.5947;Prioritas;0.8668;Kritis;0.2721
+MHS0655;171;19;1;1;1;0;Desain Animasi dan Multimedia;0.7464;Kritis;0.8603;Kritis;0.1139
+MHS0426;9773;22;1;0;1;0;Jurnalisme dan Komunikasi;0.4258;Prioritas;0.8598;Kritis;0.434
+MHS0276;9119;21;1;0;1;0;Teknik Informatika;0.8279;Kritis;0.8569;Kritis;0.029
+MHS0380;9147;20;1;0;1;0;Manajemen;0.5775;Prioritas;0.8543;Kritis;0.2768
+MHS0264;9773;18;0;0;0;0;Jurnalisme dan Komunikasi;0.8615;Kritis;0.8539;Kritis;-0.0076
+MHS0319;9147;25;1;0;1;0;Manajemen;0.6239;Prioritas;0.8525;Kritis;0.2286
+MHS0183;171;18;0;0;1;0;Desain Animasi dan Multimedia;0.4299;Prioritas;0.8502;Kritis;0.4203
+MHS0098;9119;25;1;0;1;0;Teknik Informatika;0.8413;Kritis;0.85;Kritis;0.0087
+MHS0173;9991;34;1;0;1;0;Manajemen (kelas malam);0.4962;Prioritas;0.8494;Kritis;0.3532
+MHS0749;9238;18;0;0;1;1;Pekerjaan Sosial;0.0244;Aman;0.8479;Kritis;0.8235
+MHS0262;9119;30;1;1;1;0;Teknik Informatika;0.8293;Kritis;0.8463;Kritis;0.017
+MHS0552;9119;33;1;0;1;0;Teknik Informatika;0.8066;Kritis;0.8455;Kritis;0.0389
+MHS0599;9670;24;1;0;1;0;Manajemen Periklanan dan Pemasaran;0.39;Prioritas;0.8454;Kritis;0.4554
+MHS0619;9147;24;0;0;1;0;Manajemen;0.4499;Prioritas;0.8439;Kritis;0.394
+MHS0384;9147;22;1;0;1;1;Manajemen;0.2745;Prioritas;0.843;Kritis;0.5685
+MHS0423;9130;24;1;0;1;0;Manajemen Kuda;0.6599;Kritis;0.8425;Kritis;0.1826
+MHS0414;9670;19;1;0;1;0;Manajemen Periklanan dan Pemasaran;0.3856;Prioritas;0.8403;Kritis;0.4547
+MHS0432;9119;18;1;0;1;0;Teknik Informatika;0.7294;Kritis;0.8398;Kritis;0.1104
+MHS0400;9070;19;1;0;1;0;Desain Komunikasi;0.2154;Aman;0.839;Kritis;0.6236
+MHS0775;9003;28;1;0;1;0;Agronomi;0.4295;Prioritas;0.8389;Kritis;0.4094
+MHS0195;9147;19;0;0;1;0;Manajemen;0.3825;Prioritas;0.8383;Kritis;0.4558
+MHS0624;9500;28;0;1;1;0;Keperawatan;0.525;Prioritas;0.8331;Kritis;0.3081
+MHS0446;9147;19;1;0;1;0;Manajemen;0.3292;Prioritas;0.8312;Kritis;0.502
+MHS0418;171;23;1;1;1;0;Desain Animasi dan Multimedia;0.7877;Kritis;0.8303;Kritis;0.0426
+MHS0503;9500;19;1;0;1;0;Keperawatan;0.191;Aman;0.8286;Kritis;0.6376
+MHS0118;9147;19;0;0;1;1;Manajemen;0.0753;Aman;0.8275;Kritis;0.7522
+MHS0480;9991;40;1;0;1;0;Manajemen (kelas malam);0.9229;Kritis;0.8259;Kritis;-0.097
+MHS0774;9147;22;1;0;1;0;Manajemen;0.5591;Prioritas;0.8257;Kritis;0.2666
+MHS0744;171;19;0;1;1;0;Desain Animasi dan Multimedia;0.5517;Prioritas;0.8234;Kritis;0.2717
+MHS0653;9119;18;1;0;1;0;Teknik Informatika;0.558;Prioritas;0.8229;Kritis;0.2649
+MHS0365;9500;18;0;0;1;1;Keperawatan;0.0632;Aman;0.8221;Kritis;0.7589
+MHS0151;9130;21;0;1;1;0;Manajemen Kuda;0.4771;Prioritas;0.822;Kritis;0.3449
+MHS0701;9254;20;0;0;1;1;Pariwisata;0.0912;Aman;0.8213;Kritis;0.7301
+MHS0139;9085;19;0;0;1;0;Keperawatan Hewan;0.2207;Prioritas;0.8204;Kritis;0.5997
+MHS0071;9500;26;0;0;1;0;Keperawatan;0.3641;Prioritas;0.8156;Kritis;0.4515
+MHS0206;9085;21;0;1;1;0;Keperawatan Hewan;0.3679;Prioritas;0.8143;Kritis;0.4464
+MHS0026;9238;20;0;0;1;1;Pekerjaan Sosial;0.0394;Aman;0.8142;Kritis;0.7748
+MHS0430;9991;43;0;0;1;0;Manajemen (kelas malam);0.5196;Prioritas;0.8116;Kritis;0.292
+MHS0085;9085;20;0;0;1;0;Keperawatan Hewan;0.2629;Prioritas;0.8056;Kritis;0.5427
+MHS0758;171;20;0;0;1;0;Desain Animasi dan Multimedia;0.4586;Prioritas;0.8054;Kritis;0.3468
+MHS0179;9853;18;0;1;1;0;Pendidikan Dasar;0.7092;Kritis;0.8037;Kritis;0.0945
+MHS0494;9085;26;0;0;0;0;Keperawatan Hewan;0.9061;Kritis;0.8028;Kritis;-0.1033
+MHS0465;9853;22;0;1;0;0;Pendidikan Dasar;0.9829;Kritis;0.8024;Kritis;-0.1805
+MHS0361;9085;20;0;0;1;0;Keperawatan Hewan;0.2626;Prioritas;0.8017;Kritis;0.5391
+MHS0258;9991;47;1;0;1;0;Manajemen (kelas malam);0.5116;Prioritas;0.7987;Kritis;0.2871
+MHS0700;9147;33;0;0;1;0;Manajemen;0.5184;Prioritas;0.7937;Kritis;0.2753
+MHS0086;9085;22;0;1;1;0;Keperawatan Hewan;0.5255;Prioritas;0.7922;Kritis;0.2667
+MHS0611;9147;18;0;0;1;0;Manajemen;0.4187;Prioritas;0.792;Kritis;0.3733
+MHS0406;9147;22;1;1;1;1;Manajemen;0.4734;Prioritas;0.7918;Kritis;0.3184
+MHS0457;9147;19;0;0;1;0;Manajemen;0.2688;Prioritas;0.786;Kritis;0.5172
+MHS0023;9853;20;0;0;1;0;Pendidikan Dasar;0.7444;Kritis;0.7854;Kritis;0.041
+MHS0589;9991;25;1;1;1;0;Manajemen (kelas malam);0.6828;Kritis;0.7848;Kritis;0.102
+MHS0419;9773;29;1;0;0;0;Jurnalisme dan Komunikasi;0.9003;Kritis;0.7813;Kritis;-0.119
+MHS0210;9991;23;0;1;1;0;Manajemen (kelas malam);0.1897;Aman;0.7781;Kritis;0.5884
+MHS0132;9773;32;1;0;1;0;Jurnalisme dan Komunikasi;0.4754;Prioritas;0.7778;Kritis;0.3024
+MHS0344;9500;17;0;0;1;0;Keperawatan;0.1029;Aman;0.7767;Kritis;0.6738
+MHS0051;9085;19;0;0;1;0;Keperawatan Hewan;0.2426;Prioritas;0.7749;Kritis;0.5323
+MHS0783;9991;30;0;0;1;0;Manajemen (kelas malam);0.4529;Prioritas;0.7742;Kritis;0.3213
+MHS0705;9670;20;0;0;1;0;Manajemen Periklanan dan Pemasaran;0.1108;Aman;0.7729;Kritis;0.6621
+MHS0413;9119;18;1;0;1;0;Teknik Informatika;0.7302;Kritis;0.7697;Kritis;0.0395
+MHS0597;9147;21;1;0;1;0;Manajemen;0.7116;Kritis;0.7682;Kritis;0.0566
+MHS0620;9991;29;0;0;1;0;Manajemen (kelas malam);0.3398;Prioritas;0.7641;Kritis;0.4243
+MHS0462;9147;21;0;0;1;0;Manajemen;0.4992;Prioritas;0.7599;Kritis;0.2607
+MHS0654;171;22;1;0;1;0;Desain Animasi dan Multimedia;0.6278;Prioritas;0.7598;Kritis;0.132
+MHS0627;9147;20;0;0;1;0;Manajemen;0.1626;Aman;0.759;Kritis;0.5964
+MHS0094;9147;19;1;0;1;1;Manajemen;0.3116;Prioritas;0.7566;Kritis;0.445
+MHS0227;9085;23;0;1;0;0;Keperawatan Hewan;0.9373;Kritis;0.7542;Kritis;-0.1831
+MHS0560;9085;21;0;0;1;0;Keperawatan Hewan;0.2153;Aman;0.753;Kritis;0.5377
+MHS0032;9853;18;0;0;1;0;Pendidikan Dasar;0.4839;Prioritas;0.7441;Kritis;0.2602
+MHS0021;9119;19;1;0;1;0;Teknik Informatika;0.2915;Prioritas;0.7426;Kritis;0.4511
+MHS0114;9991;27;0;0;1;0;Manajemen (kelas malam);0.5565;Prioritas;0.7417;Kritis;0.1852
+MHS0666;9085;20;0;0;1;0;Keperawatan Hewan;0.3184;Prioritas;0.7387;Kritis;0.4203
+MHS0134;171;20;1;0;1;0;Desain Animasi dan Multimedia;0.5137;Prioritas;0.7334;Kritis;0.2197
+MHS0761;9991;25;0;1;1;0;Manajemen (kelas malam);0.7129;Kritis;0.732;Kritis;0.0191
+MHS0121;9238;19;0;1;1;1;Pekerjaan Sosial;0.0553;Aman;0.7305;Kritis;0.6752
+MHS0790;9853;21;0;0;1;0;Pendidikan Dasar;0.5334;Prioritas;0.7287;Kritis;0.1953
+MHS0486;9500;30;1;1;1;0;Keperawatan;0.782;Kritis;0.7251;Kritis;-0.0569
+MHS0141;9500;18;0;0;1;0;Keperawatan;0.1225;Aman;0.7168;Kritis;0.5943
+MHS0767;171;21;1;0;1;0;Desain Animasi dan Multimedia;0.6558;Kritis;0.716;Kritis;0.0602
+MHS0723;171;22;0;1;1;0;Desain Animasi dan Multimedia;0.5598;Prioritas;0.7149;Kritis;0.1551
+MHS0042;171;24;0;0;1;0;Desain Animasi dan Multimedia;0.1789;Aman;0.7012;Kritis;0.5223
+MHS0712;9147;36;0;0;1;0;Manajemen;0.5358;Prioritas;0.7004;Kritis;0.1646
+MHS0484;9147;20;1;0;1;0;Manajemen;0.4892;Prioritas;0.6952;Kritis;0.206
+MHS0447;9500;18;0;0;1;0;Keperawatan;0.0535;Aman;0.6937;Kritis;0.6402
+MHS0582;9085;23;0;0;1;0;Keperawatan Hewan;0.1286;Aman;0.6922;Kritis;0.5636
+MHS0107;9500;19;0;0;1;0;Keperawatan;0.1423;Aman;0.6916;Kritis;0.5493
+MHS0018;9254;18;1;0;1;0;Pariwisata;0.6202;Prioritas;0.6894;Kritis;0.0692
+MHS0535;9991;34;0;0;1;0;Manajemen (kelas malam);0.3564;Prioritas;0.6873;Kritis;0.3309
+MHS0185;9147;21;0;0;1;0;Manajemen;0.311;Prioritas;0.6841;Kritis;0.3731
+MHS0388;9254;18;1;0;1;1;Pariwisata;0.3556;Prioritas;0.6839;Kritis;0.3283
+MHS0126;9254;20;1;0;1;0;Pariwisata;0.5064;Prioritas;0.6833;Kritis;0.1769
+MHS0584;9670;22;0;0;1;0;Manajemen Periklanan dan Pemasaran;0.1616;Aman;0.6771;Kritis;0.5155
+MHS0329;9500;39;0;0;1;0;Keperawatan;0.2568;Prioritas;0.6742;Kritis;0.4174
+MHS0315;9003;25;1;0;1;0;Agronomi;0.4513;Prioritas;0.6715;Kritis;0.2202
+MHS0784;9238;18;0;0;1;0;Pekerjaan Sosial;0.1426;Aman;0.6669;Kritis;0.5243
+MHS0311;9254;26;1;0;0;0;Pariwisata;0.9628;Kritis;0.6555;Kritis;-0.3073
+MHS0662;9853;33;0;1;0;0;Pendidikan Dasar;0.9923;Kritis;0.6513;Kritis;-0.341
+MHS0483;9119;20;1;0;1;0;Teknik Informatika;0.4006;Prioritas;0.6491;Prioritas;0.2485
+MHS0385;9119;19;1;0;1;0;Teknik Informatika;0.5985;Prioritas;0.6467;Prioritas;0.0482
+MHS0225;9147;19;0;1;0;1;Manajemen;0.7933;Kritis;0.6429;Prioritas;-0.1504
+MHS0719;9238;21;0;0;1;1;Pekerjaan Sosial;0.0606;Aman;0.641;Prioritas;0.5804
+MHS0255;9500;35;0;0;1;0;Keperawatan;0.0663;Aman;0.639;Prioritas;0.5727
+MHS0024;9147;18;0;0;1;1;Manajemen;0.1296;Aman;0.639;Prioritas;0.5094
+MHS0577;9991;24;1;1;1;0;Manajemen (kelas malam);0.715;Kritis;0.635;Prioritas;-0.08
+MHS0321;9119;19;1;0;1;1;Teknik Informatika;0.3359;Prioritas;0.6349;Prioritas;0.299
+MHS0509;9670;19;1;0;1;0;Manajemen Periklanan dan Pemasaran;0.4094;Prioritas;0.6302;Prioritas;0.2208
+MHS0698;9500;21;0;0;1;0;Keperawatan;0.0734;Aman;0.6286;Prioritas;0.5552
+MHS0011;9773;20;0;0;1;1;Jurnalisme dan Komunikasi;0.086;Aman;0.6253;Prioritas;0.5393
+MHS0373;9085;21;0;0;1;0;Keperawatan Hewan;0.361;Prioritas;0.6226;Prioritas;0.2616
+MHS0424;9003;21;1;1;1;0;Agronomi;0.4153;Prioritas;0.6184;Prioritas;0.2031
+MHS0247;9670;19;1;0;1;0;Manajemen Periklanan dan Pemasaran;0.2998;Prioritas;0.6144;Prioritas;0.3146
+MHS0443;171;22;1;0;1;0;Desain Animasi dan Multimedia;0.4702;Prioritas;0.6079;Prioritas;0.1377
+MHS0031;171;18;0;0;1;0;Desain Animasi dan Multimedia;0.3077;Prioritas;0.6051;Prioritas;0.2974
+MHS0777;9147;21;1;1;1;0;Manajemen;0.332;Prioritas;0.6051;Prioritas;0.2731
+MHS0062;9085;19;0;0;1;0;Keperawatan Hewan;0.2325;Prioritas;0.6033;Prioritas;0.3708
+MHS0762;9147;20;1;0;1;0;Manajemen;0.4473;Prioritas;0.6023;Prioritas;0.155
+MHS0540;9853;20;0;0;1;0;Pendidikan Dasar;0.7085;Kritis;0.5976;Prioritas;-0.1109
+MHS0235;9773;19;0;0;1;1;Jurnalisme dan Komunikasi;0.0641;Aman;0.5965;Prioritas;0.5324
+MHS0692;9254;19;1;0;1;1;Pariwisata;0.1637;Aman;0.5924;Prioritas;0.4287
+MHS0295;171;20;1;0;1;0;Desain Animasi dan Multimedia;0.4649;Prioritas;0.5916;Prioritas;0.1267
+MHS0369;171;18;0;0;1;0;Desain Animasi dan Multimedia;0.3622;Prioritas;0.5872;Prioritas;0.225
+MHS0639;9991;39;1;0;1;0;Manajemen (kelas malam);0.7081;Kritis;0.5859;Prioritas;-0.1222
+MHS0467;9085;21;0;0;1;0;Keperawatan Hewan;0.3446;Prioritas;0.5835;Prioritas;0.2389
+MHS0251;9003;20;1;0;1;0;Agronomi;0.4332;Prioritas;0.581;Prioritas;0.1478
+MHS0390;9130;24;1;0;1;0;Manajemen Kuda;0.7253;Kritis;0.5789;Prioritas;-0.1464
+MHS0459;8014;26;0;0;1;0;Pekerjaan Sosial (kelas malam);0.4482;Prioritas;0.5715;Prioritas;0.1233
+MHS0581;8014;23;0;0;1;0;Pekerjaan Sosial (kelas malam);0.1646;Aman;0.5681;Prioritas;0.4035
+MHS0575;9119;28;1;0;1;0;Teknik Informatika;0.7713;Kritis;0.5677;Prioritas;-0.2036
+MHS0409;9070;38;1;0;1;0;Desain Komunikasi;0.6899;Kritis;0.558;Prioritas;-0.1319
+MHS0479;9119;18;1;1;1;0;Teknik Informatika;0.9219;Kritis;0.5463;Prioritas;-0.3756
+MHS0679;9085;20;0;0;1;0;Keperawatan Hewan;0.278;Prioritas;0.5401;Prioritas;0.2621
+MHS0421;171;22;1;0;1;0;Desain Animasi dan Multimedia;0.7088;Kritis;0.5392;Prioritas;-0.1696
+MHS0190;9147;19;0;0;1;0;Manajemen;0.1866;Aman;0.5314;Prioritas;0.3448
+MHS0100;9500;18;1;0;1;0;Keperawatan;0.1725;Aman;0.5309;Prioritas;0.3584
+MHS0209;9085;19;0;0;1;0;Keperawatan Hewan;0.1689;Aman;0.527;Prioritas;0.3581
+MHS0672;9147;21;1;1;1;1;Manajemen;0.8108;Kritis;0.5207;Prioritas;-0.2901
+MHS0239;9238;21;0;0;1;1;Pekerjaan Sosial;0.0727;Aman;0.5183;Prioritas;0.4456
+MHS0519;9003;34;0;1;0;0;Agronomi;0.9436;Kritis;0.516;Prioritas;-0.4276
+MHS0626;9853;19;0;0;1;0;Pendidikan Dasar;0.3954;Prioritas;0.5111;Prioritas;0.1157
+MHS0751;9085;27;0;1;1;0;Keperawatan Hewan;0.5875;Prioritas;0.5087;Prioritas;-0.0788
+MHS0322;9119;18;1;0;0;1;Teknik Informatika;0.8583;Kritis;0.5062;Prioritas;-0.3521
+MHS0196;9500;19;0;0;1;0;Keperawatan;0.1831;Aman;0.5026;Prioritas;0.3195
+MHS0580;171;18;1;0;1;0;Desain Animasi dan Multimedia;0.4312;Prioritas;0.5009;Prioritas;0.0697
+MHS0057;9238;36;0;0;1;0;Pekerjaan Sosial;0.241;Prioritas;0.4924;Prioritas;0.2514
+MHS0550;9500;19;0;0;1;0;Keperawatan;0.0655;Aman;0.4874;Prioritas;0.4219
+MHS0461;9991;26;0;0;1;0;Manajemen (kelas malam);0.5028;Prioritas;0.4828;Prioritas;-0.02
+MHS0738;9085;21;0;0;1;0;Keperawatan Hewan;0.277;Prioritas;0.4809;Prioritas;0.2039
+MHS0049;9670;19;0;0;1;0;Manajemen Periklanan dan Pemasaran;0.1552;Aman;0.4772;Prioritas;0.322
+MHS0746;9254;18;0;0;0;0;Pariwisata;0.8551;Kritis;0.4701;Prioritas;-0.385
+MHS0607;9147;19;0;0;1;0;Manajemen;0.2214;Prioritas;0.4701;Prioritas;0.2487
+MHS0529;9238;22;0;0;1;0;Pekerjaan Sosial;0.2005;Aman;0.4697;Prioritas;0.2692
+MHS0555;9147;33;0;0;1;0;Manajemen;0.5903;Prioritas;0.4623;Prioritas;-0.128
+MHS0061;9500;19;0;0;1;0;Keperawatan;0.0875;Aman;0.4619;Prioritas;0.3744
+MHS0651;9130;19;1;0;1;0;Manajemen Kuda;0.4072;Prioritas;0.4596;Prioritas;0.0524
+MHS0708;9003;24;0;0;1;0;Agronomi;0.2132;Aman;0.4534;Prioritas;0.2402
+MHS0358;171;17;1;0;1;0;Desain Animasi dan Multimedia;0.5745;Prioritas;0.4525;Prioritas;-0.122
+MHS0544;9147;19;0;0;1;1;Manajemen;0.15;Aman;0.4498;Prioritas;0.2998
+MHS0292;9991;25;0;0;1;0;Manajemen (kelas malam);0.5855;Prioritas;0.4498;Prioritas;-0.1357
+MHS0526;9991;28;0;0;1;0;Manajemen (kelas malam);0.1932;Aman;0.4474;Prioritas;0.2542
+MHS0417;9003;19;1;0;1;1;Agronomi;0.0839;Aman;0.4427;Prioritas;0.3588
+MHS0524;8014;48;0;0;1;0;Pekerjaan Sosial (kelas malam);0.6509;Kritis;0.439;Prioritas;-0.2119
+MHS0537;9670;35;0;0;1;0;Manajemen Periklanan dan Pemasaran;0.3957;Prioritas;0.4388;Prioritas;0.0431
+MHS0263;9991;41;0;0;1;0;Manajemen (kelas malam);0.3464;Prioritas;0.4374;Prioritas;0.091
+MHS0143;9070;22;0;0;0;1;Desain Komunikasi;0.4549;Prioritas;0.4367;Prioritas;-0.0182
+MHS0131;9670;18;1;0;1;0;Manajemen Periklanan dan Pemasaran;0.5314;Prioritas;0.4354;Prioritas;-0.096
+MHS0450;9853;19;0;0;1;0;Pendidikan Dasar;0.6421;Prioritas;0.43;Prioritas;-0.2121
+MHS0012;171;18;0;0;1;0;Desain Animasi dan Multimedia;0.2556;Prioritas;0.4262;Prioritas;0.1706
+MHS0571;9254;21;1;0;1;0;Pariwisata;0.5996;Prioritas;0.4128;Prioritas;-0.1868
+MHS0267;9130;21;0;0;1;0;Manajemen Kuda;0.481;Prioritas;0.409;Prioritas;-0.072
+MHS0334;9119;41;1;1;1;0;Teknik Informatika;0.8588;Kritis;0.404;Prioritas;-0.4548
+MHS0156;9853;22;0;0;1;0;Pendidikan Dasar;0.6284;Prioritas;0.3989;Aman;-0.2295
+MHS0112;9085;19;0;0;1;0;Keperawatan Hewan;0.3257;Prioritas;0.3968;Aman;0.0711
+MHS0664;9670;21;0;0;1;0;Manajemen Periklanan dan Pemasaran;0.3964;Prioritas;0.3968;Aman;0.0004
+MHS0778;9991;28;0;0;1;0;Manajemen (kelas malam);0.504;Prioritas;0.3961;Aman;-0.1079
+MHS0212;8014;24;1;0;1;1;Pekerjaan Sosial (kelas malam);0.1558;Aman;0.3939;Aman;0.2381
+MHS0710;9254;19;0;0;1;0;Pariwisata;0.3637;Prioritas;0.3888;Aman;0.0251
+MHS0147;9147;21;0;0;1;0;Manajemen;0.4792;Prioritas;0.3884;Aman;-0.0908
+MHS0628;9991;29;0;0;1;0;Manajemen (kelas malam);0.3464;Prioritas;0.3844;Aman;0.038
+MHS0355;8014;25;0;1;1;0;Pekerjaan Sosial (kelas malam);0.3389;Prioritas;0.3831;Aman;0.0442
+MHS0642;9500;21;1;0;1;0;Keperawatan;0.0885;Aman;0.3822;Aman;0.2937
+MHS0609;9238;21;0;0;1;1;Pekerjaan Sosial;0.0615;Aman;0.3795;Aman;0.318
+MHS0574;9500;19;1;0;1;1;Keperawatan;0.0632;Aman;0.3793;Aman;0.3161
+MHS0034;9085;28;0;0;1;0;Keperawatan Hewan;0.4188;Prioritas;0.3784;Aman;-0.0404
+MHS0756;9853;22;0;0;1;0;Pendidikan Dasar;0.5167;Prioritas;0.3769;Aman;-0.1398
+MHS0290;171;20;0;0;1;0;Desain Animasi dan Multimedia;0.247;Prioritas;0.372;Aman;0.125
+MHS0706;171;21;1;1;1;0;Desain Animasi dan Multimedia;0.6867;Kritis;0.3706;Aman;-0.3161
+MHS0585;9991;30;0;0;1;0;Manajemen (kelas malam);0.5394;Prioritas;0.3676;Aman;-0.1718
+MHS0340;9670;20;0;1;1;0;Manajemen Periklanan dan Pemasaran;0.5994;Prioritas;0.3642;Aman;-0.2352
+MHS0188;9556;25;0;0;1;0;Kesehatan Gigi dan Mulut;0.3828;Prioritas;0.3559;Aman;-0.0269
+MHS0325;9500;19;0;0;1;1;Keperawatan;0.045;Aman;0.3558;Aman;0.3108
+MHS0398;9853;42;1;0;1;0;Pendidikan Dasar;0.7043;Kritis;0.3555;Aman;-0.3488
+MHS0782;9500;18;0;0;1;0;Keperawatan;0.1963;Aman;0.3553;Aman;0.159
+MHS0004;9238;18;0;1;1;1;Pekerjaan Sosial;0.0417;Aman;0.3492;Aman;0.3075
+MHS0786;9238;19;0;0;1;0;Pekerjaan Sosial;0.1178;Aman;0.3431;Aman;0.2253
+MHS0124;9853;18;0;0;1;0;Pendidikan Dasar;0.5926;Prioritas;0.3392;Aman;-0.2534
+MHS0374;171;18;0;0;1;0;Desain Animasi dan Multimedia;0.3266;Prioritas;0.3385;Aman;0.0119
+MHS0362;9853;19;0;0;1;0;Pendidikan Dasar;0.6273;Prioritas;0.3375;Aman;-0.2898
+MHS0364;9773;21;0;0;1;0;Jurnalisme dan Komunikasi;0.3392;Prioritas;0.3348;Aman;-0.0044
+MHS0562;9238;21;0;0;1;0;Pekerjaan Sosial;0.1963;Aman;0.3322;Aman;0.1359
+MHS0505;171;18;0;0;1;1;Desain Animasi dan Multimedia;0.1384;Aman;0.3295;Aman;0.1911
+MHS0330;9147;20;1;1;1;0;Manajemen;0.7685;Kritis;0.329;Aman;-0.4395
+MHS0363;9085;21;0;0;1;0;Keperawatan Hewan;0.1786;Aman;0.3258;Aman;0.1472
+MHS0283;9003;20;1;1;1;0;Agronomi;0.355;Prioritas;0.3258;Aman;-0.0292
+MHS0402;9070;20;1;0;1;0;Desain Komunikasi;0.2988;Prioritas;0.3235;Aman;0.0247
+MHS0528;8014;49;0;0;1;0;Pekerjaan Sosial (kelas malam);0.4193;Prioritas;0.323;Aman;-0.0963
+MHS0516;9500;19;0;0;1;0;Keperawatan;0.1458;Aman;0.322;Aman;0.1762
+MHS0307;9070;20;1;0;1;0;Desain Komunikasi;0.5668;Prioritas;0.3208;Aman;-0.246
+MHS0614;9853;19;0;0;1;0;Pendidikan Dasar;0.4917;Prioritas;0.3184;Aman;-0.1733
+MHS0754;9085;19;0;0;1;0;Keperawatan Hewan;0.2859;Prioritas;0.3181;Aman;0.0322
+MHS0129;9670;18;1;0;1;0;Manajemen Periklanan dan Pemasaran;0.5252;Prioritas;0.3147;Aman;-0.2105
+MHS0352;9085;20;0;0;1;0;Keperawatan Hewan;0.318;Prioritas;0.3118;Aman;-0.0062
+MHS0491;9147;19;0;0;1;0;Manajemen;0.3567;Prioritas;0.3112;Aman;-0.0455
+MHS0303;8014;44;1;0;1;0;Pekerjaan Sosial (kelas malam);0.2009;Aman;0.3108;Aman;0.1099
+MHS0260;171;18;1;0;1;0;Desain Animasi dan Multimedia;0.4754;Prioritas;0.3082;Aman;-0.1672
+MHS0728;9254;19;0;0;1;0;Pariwisata;0.4792;Prioritas;0.3081;Aman;-0.1711
+MHS0245;9500;18;1;0;1;0;Keperawatan;0.238;Prioritas;0.3076;Aman;0.0696
+MHS0063;9991;31;0;0;1;1;Manajemen (kelas malam);0.1819;Aman;0.3075;Aman;0.1256
+MHS0234;9773;19;0;0;1;0;Jurnalisme dan Komunikasi;0.2058;Aman;0.3048;Aman;0.099
+MHS0272;9991;28;0;0;1;0;Manajemen (kelas malam);0.5004;Prioritas;0.2993;Aman;-0.2011
+MHS0108;9670;20;0;0;1;0;Manajemen Periklanan dan Pemasaran;0.2519;Prioritas;0.2973;Aman;0.0454
+MHS0259;171;20;1;0;1;1;Desain Animasi dan Multimedia;0.1495;Aman;0.2972;Aman;0.1477
+MHS0610;9147;19;0;0;1;0;Manajemen;0.2424;Prioritas;0.2969;Aman;0.0545
+MHS0060;9147;20;0;0;1;0;Manajemen;0.4749;Prioritas;0.2964;Aman;-0.1785
+MHS0464;9853;18;0;0;1;0;Pendidikan Dasar;0.5521;Prioritas;0.2944;Aman;-0.2577
+MHS0622;9670;19;0;0;1;0;Manajemen Periklanan dan Pemasaran;0.1591;Aman;0.2911;Aman;0.132
+MHS0302;9130;20;0;0;1;1;Manajemen Kuda;0.2658;Prioritas;0.289;Aman;0.0232
+MHS0386;9773;19;1;0;1;0;Jurnalisme dan Komunikasi;0.3724;Prioritas;0.2873;Aman;-0.0851
+MHS0055;9085;19;0;0;1;0;Keperawatan Hewan;0.2209;Prioritas;0.2832;Aman;0.0623
+MHS0191;9147;19;0;0;1;1;Manajemen;0.2057;Aman;0.2829;Aman;0.0772
+MHS0320;9500;21;0;0;1;0;Keperawatan;0.1351;Aman;0.2828;Aman;0.1477
+MHS0343;9070;18;0;0;0;1;Desain Komunikasi;0.3021;Prioritas;0.2804;Aman;-0.0217
+MHS0547;9085;19;0;0;1;0;Keperawatan Hewan;0.1705;Aman;0.2798;Aman;0.1093
+MHS0193;171;18;0;0;1;0;Desain Animasi dan Multimedia;0.2066;Aman;0.2733;Aman;0.0667
+MHS0360;9500;19;0;0;1;0;Keperawatan;0.108;Aman;0.2728;Aman;0.1648
+MHS0149;9500;20;0;0;0;1;Keperawatan;0.4096;Prioritas;0.2685;Aman;-0.1411
+MHS0162;8014;37;0;1;1;0;Pekerjaan Sosial (kelas malam);0.5619;Prioritas;0.2613;Aman;-0.3006
+MHS0565;9853;19;0;0;1;1;Pendidikan Dasar;0.1554;Aman;0.2599;Aman;0.1045
+MHS0178;9853;18;0;0;1;0;Pendidikan Dasar;0.5772;Prioritas;0.2581;Aman;-0.3191
+MHS0579;9773;20;1;0;1;0;Jurnalisme dan Komunikasi;0.4629;Prioritas;0.2566;Aman;-0.2063
+MHS0035;9670;18;0;0;1;1;Manajemen Periklanan dan Pemasaran;0.0441;Aman;0.2528;Aman;0.2087
+MHS0082;9238;20;0;0;1;0;Pekerjaan Sosial;0.2388;Prioritas;0.252;Aman;0.0132
+MHS0065;9853;18;0;0;0;1;Pendidikan Dasar;0.7794;Kritis;0.2519;Aman;-0.5275
+MHS0593;9070;31;0;1;1;0;Desain Komunikasi;0.5135;Prioritas;0.2468;Aman;-0.2667
+MHS0266;33;20;1;0;1;0;Teknologi Produksi Biofuel;0.2169;Aman;0.2438;Aman;0.0269
+MHS0257;9991;31;0;0;1;1;Manajemen (kelas malam);0.1392;Aman;0.2414;Aman;0.1022
+MHS0766;9670;21;0;0;1;0;Manajemen Periklanan dan Pemasaran;0.2653;Prioritas;0.2404;Aman;-0.0249
+MHS0497;9500;20;1;1;1;0;Keperawatan;0.2385;Prioritas;0.239;Aman;0.0005
+MHS0158;9556;21;1;0;1;1;Kesehatan Gigi dan Mulut;0.1992;Aman;0.2374;Aman;0.0382
+MHS0643;9670;19;1;1;1;0;Manajemen Periklanan dan Pemasaran;0.5088;Prioritas;0.2353;Aman;-0.2735
+MHS0039;9500;35;0;0;1;0;Keperawatan;0.3231;Prioritas;0.235;Aman;-0.0881
+MHS0644;9254;25;1;0;1;0;Pariwisata;0.8302;Kritis;0.234;Aman;-0.5962
+MHS0617;9500;20;0;0;1;0;Keperawatan;0.1818;Aman;0.2323;Aman;0.0505
+MHS0339;9853;19;0;0;1;0;Pendidikan Dasar;0.577;Prioritas;0.2313;Aman;-0.3457
+MHS0110;9500;18;0;0;1;1;Keperawatan;0.0292;Aman;0.2298;Aman;0.2006
+MHS0583;9147;39;0;0;1;0;Manajemen;0.4317;Prioritas;0.2298;Aman;-0.2019
+MHS0456;171;18;0;0;1;0;Desain Animasi dan Multimedia;0.2071;Aman;0.2262;Aman;0.0191
+MHS0512;9500;19;0;0;1;0;Keperawatan;0.0801;Aman;0.2262;Aman;0.1461
+MHS0377;171;18;1;0;1;1;Desain Animasi dan Multimedia;0.1469;Aman;0.226;Aman;0.0791
+MHS0730;9991;33;0;0;1;0;Manajemen (kelas malam);0.236;Prioritas;0.2258;Aman;-0.0102
+MHS0309;9119;18;1;0;0;1;Teknik Informatika;0.7999;Kritis;0.2233;Aman;-0.5766
+MHS0551;9670;20;1;0;1;1;Manajemen Periklanan dan Pemasaran;0.1279;Aman;0.2226;Aman;0.0947
+MHS0313;9853;23;0;0;1;1;Pendidikan Dasar;0.181;Aman;0.2224;Aman;0.0414
+MHS0182;9853;18;0;0;1;0;Pendidikan Dasar;0.6239;Prioritas;0.2213;Aman;-0.4026
+MHS0223;9853;19;0;0;1;0;Pendidikan Dasar;0.4817;Prioritas;0.22;Aman;-0.2617
+MHS0696;9853;21;0;1;1;0;Pendidikan Dasar;0.7968;Kritis;0.2189;Aman;-0.5779
+MHS0243;9119;20;1;0;1;0;Teknik Informatika;0.6456;Prioritas;0.2188;Aman;-0.4268
+MHS0069;9853;22;0;0;1;0;Pendidikan Dasar;0.6599;Kritis;0.218;Aman;-0.4419
+MHS0181;9070;21;0;0;1;0;Desain Komunikasi;0.2365;Prioritas;0.2141;Aman;-0.0224
+MHS0714;9773;40;0;0;1;0;Jurnalisme dan Komunikasi;0.5683;Prioritas;0.2138;Aman;-0.3545
+MHS0217;9085;19;0;0;1;0;Keperawatan Hewan;0.2859;Prioritas;0.2131;Aman;-0.0728
+MHS0336;171;18;0;0;1;0;Desain Animasi dan Multimedia;0.1877;Aman;0.213;Aman;0.0253
+MHS0468;9853;18;0;0;1;0;Pendidikan Dasar;0.5362;Prioritas;0.2108;Aman;-0.3254
+MHS0133;171;19;1;1;1;0;Desain Animasi dan Multimedia;0.4907;Prioritas;0.2102;Aman;-0.2805
+MHS0561;9670;19;0;0;1;1;Manajemen Periklanan dan Pemasaran;0.156;Aman;0.2084;Aman;0.0524
+MHS0472;9147;18;1;0;1;1;Manajemen;0.2914;Prioritas;0.2043;Aman;-0.0871
+MHS0189;9238;24;0;0;1;0;Pekerjaan Sosial;0.2398;Prioritas;0.2039;Aman;-0.0359
+MHS0176;9853;18;0;0;1;1;Pendidikan Dasar;0.3029;Prioritas;0.1982;Aman;-0.1047
+MHS0525;9147;41;0;0;1;0;Manajemen;0.4042;Prioritas;0.1982;Aman;-0.206
+MHS0279;9670;19;1;0;1;0;Manajemen Periklanan dan Pemasaran;0.225;Prioritas;0.1938;Aman;-0.0312
+MHS0249;9119;21;1;0;1;0;Teknik Informatika;0.6936;Kritis;0.1924;Aman;-0.5012
+MHS0233;171;18;0;0;1;0;Desain Animasi dan Multimedia;0.2012;Aman;0.1884;Aman;-0.0128
+MHS0686;9500;18;0;0;1;1;Keperawatan;0.036;Aman;0.1883;Aman;0.1523
+MHS0658;9119;18;1;0;0;1;Teknik Informatika;0.8414;Kritis;0.188;Aman;-0.6534
+MHS0740;9556;24;0;0;1;0;Kesehatan Gigi dan Mulut;0.5272;Prioritas;0.1859;Aman;-0.3413
+MHS0013;171;19;1;0;1;1;Desain Animasi dan Multimedia;0.2507;Prioritas;0.1836;Aman;-0.0671
+MHS0104;9147;20;1;0;1;0;Manajemen;0.5398;Prioritas;0.1836;Aman;-0.3562
+MHS0236;9147;19;0;0;1;1;Manajemen;0.1135;Aman;0.1833;Aman;0.0698
+MHS0310;171;19;1;1;1;0;Desain Animasi dan Multimedia;0.6151;Prioritas;0.1822;Aman;-0.4329
+MHS0481;9254;27;1;0;1;0;Pariwisata;0.5715;Prioritas;0.182;Aman;-0.3895
+MHS0578;9003;23;1;0;1;0;Agronomi;0.3719;Prioritas;0.1785;Aman;-0.1934
+MHS0200;9500;19;0;0;1;0;Keperawatan;0.0896;Aman;0.1782;Aman;0.0886
+MHS0793;9070;19;1;0;1;1;Desain Komunikasi;0.1423;Aman;0.178;Aman;0.0357
+MHS0429;9773;19;1;0;1;0;Jurnalisme dan Komunikasi;0.3459;Prioritas;0.1772;Aman;-0.1687
+MHS0660;9773;18;0;0;1;1;Jurnalisme dan Komunikasi;0.0775;Aman;0.1749;Aman;0.0974
+MHS0280;9500;22;1;0;1;0;Keperawatan;0.3511;Prioritas;0.1749;Aman;-0.1762
+MHS0566;9500;20;0;0;1;0;Keperawatan;0.1827;Aman;0.1731;Aman;-0.0096
+MHS0613;9991;32;0;0;1;0;Manajemen (kelas malam);0.3099;Prioritas;0.1727;Aman;-0.1372
+MHS0216;9670;18;0;0;1;0;Manajemen Periklanan dan Pemasaran;0.287;Prioritas;0.1706;Aman;-0.1164
+MHS0451;9130;19;0;0;1;0;Manajemen Kuda;0.3863;Prioritas;0.1703;Aman;-0.216
+MHS0638;9003;24;1;0;1;0;Agronomi;0.4276;Prioritas;0.1702;Aman;-0.2574
+MHS0553;9670;20;1;0;1;0;Manajemen Periklanan dan Pemasaran;0.1992;Aman;0.1696;Aman;-0.0296
+MHS0142;9853;18;0;0;1;0;Pendidikan Dasar;0.374;Prioritas;0.1693;Aman;-0.2047
+MHS0678;9085;28;0;0;1;0;Keperawatan Hewan;0.2226;Prioritas;0.169;Aman;-0.0536
+MHS0159;9254;21;0;0;1;0;Pariwisata;0.235;Prioritas;0.1688;Aman;-0.0662
+MHS0192;9147;20;0;0;1;1;Manajemen;0.1063;Aman;0.1683;Aman;0.062
+MHS0637;9500;20;1;0;1;0;Keperawatan;0.3233;Prioritas;0.1674;Aman;-0.1559
+MHS0726;9670;18;0;0;1;1;Manajemen Periklanan dan Pemasaran;0.0545;Aman;0.1652;Aman;0.1107
+MHS0539;9085;18;0;0;1;0;Keperawatan Hewan;0.2421;Prioritas;0.1651;Aman;-0.077
+MHS0180;9853;19;0;0;1;0;Pendidikan Dasar;0.4228;Prioritas;0.165;Aman;-0.2578
+MHS0702;9147;35;0;0;1;0;Manajemen;0.4168;Prioritas;0.1643;Aman;-0.2525
+MHS0273;171;18;1;0;1;1;Desain Animasi dan Multimedia;0.0954;Aman;0.1638;Aman;0.0684
+MHS0734;9085;18;0;0;0;0;Keperawatan Hewan;0.6336;Prioritas;0.1615;Aman;-0.4721
+MHS0007;9003;21;1;0;1;0;Agronomi;0.4089;Prioritas;0.1609;Aman;-0.248
+MHS0194;9853;18;0;0;1;0;Pendidikan Dasar;0.583;Prioritas;0.16;Aman;-0.423
+MHS0690;9670;19;1;0;1;0;Manajemen Periklanan dan Pemasaran;0.3349;Prioritas;0.1598;Aman;-0.1751
+MHS0125;9254;21;1;0;1;0;Pariwisata;0.4366;Prioritas;0.1586;Aman;-0.278
+MHS0470;9070;29;0;0;1;0;Desain Komunikasi;0.4202;Prioritas;0.1575;Aman;-0.2627
+MHS0091;33;26;0;0;1;0;Teknologi Produksi Biofuel;0.593;Prioritas;0.1563;Aman;-0.4367
+MHS0564;9500;18;0;0;1;0;Keperawatan;0.1182;Aman;0.1541;Aman;0.0359
+MHS0460;9147;41;0;1;1;0;Manajemen;0.7898;Kritis;0.1536;Aman;-0.6362
+MHS0530;9991;40;0;0;1;0;Manajemen (kelas malam);0.3662;Prioritas;0.1516;Aman;-0.2146
+MHS0667;9003;43;1;0;1;0;Agronomi;0.6351;Prioritas;0.1513;Aman;-0.4838
+MHS0269;9085;20;0;0;1;0;Keperawatan Hewan;0.3517;Prioritas;0.1511;Aman;-0.2006
+MHS0781;9670;18;0;0;1;1;Manajemen Periklanan dan Pemasaran;0.0341;Aman;0.151;Aman;0.1169
+MHS0299;9991;31;0;0;1;0;Manajemen (kelas malam);0.4271;Prioritas;0.1508;Aman;-0.2763
+MHS0198;9500;32;0;0;1;0;Keperawatan;0.2228;Prioritas;0.1472;Aman;-0.0756
+MHS0054;9853;18;0;0;1;0;Pendidikan Dasar;0.3119;Prioritas;0.1463;Aman;-0.1656
+MHS0695;9238;19;0;0;1;1;Pekerjaan Sosial;0.041;Aman;0.145;Aman;0.104
+MHS0735;9085;19;0;0;1;1;Keperawatan Hewan;0.0497;Aman;0.1447;Aman;0.095
+MHS0351;9500;19;0;0;1;0;Keperawatan;0.1165;Aman;0.1415;Aman;0.025
+MHS0680;9853;23;0;0;1;0;Pendidikan Dasar;0.4724;Prioritas;0.1414;Aman;-0.331
+MHS0123;9500;19;0;0;1;0;Keperawatan;0.0654;Aman;0.1412;Aman;0.0758
+MHS0298;9147;19;1;0;1;0;Manajemen;0.6562;Kritis;0.1388;Aman;-0.5174
+MHS0281;9670;21;1;0;1;0;Manajemen Periklanan dan Pemasaran;0.5011;Prioritas;0.1383;Aman;-0.3628
+MHS0370;9085;18;0;0;1;0;Keperawatan Hewan;0.1502;Aman;0.1378;Aman;-0.0124
+MHS0113;9853;19;0;0;1;0;Pendidikan Dasar;0.4726;Prioritas;0.1375;Aman;-0.3351
+MHS0087;9853;18;0;0;1;0;Pendidikan Dasar;0.606;Prioritas;0.1356;Aman;-0.4704
+MHS0632;9147;18;1;0;1;1;Manajemen;0.1993;Aman;0.1343;Aman;-0.065
+MHS0737;9085;19;0;0;1;0;Keperawatan Hewan;0.127;Aman;0.1332;Aman;0.0062
+MHS0064;8014;42;0;1;1;0;Pekerjaan Sosial (kelas malam);0.3973;Prioritas;0.1331;Aman;-0.2642
+MHS0248;9254;20;1;0;1;0;Pariwisata;0.4706;Prioritas;0.1312;Aman;-0.3394
+MHS0226;9500;19;0;0;1;1;Keperawatan;0.0553;Aman;0.1305;Aman;0.0752
+MHS0747;9991;21;0;0;1;1;Manajemen (kelas malam);0.089;Aman;0.1302;Aman;0.0412
+MHS0541;9254;18;0;0;1;0;Pariwisata;0.222;Prioritas;0.13;Aman;-0.092
+MHS0657;9119;24;1;1;1;0;Teknik Informatika;0.7654;Kritis;0.1287;Aman;-0.6367
+MHS0473;9991;28;1;0;1;0;Manajemen (kelas malam);0.5921;Prioritas;0.1276;Aman;-0.4645
+MHS0527;9147;53;0;0;1;0;Manajemen;0.4297;Prioritas;0.1257;Aman;-0.304
+MHS0760;8014;45;0;0;1;0;Pekerjaan Sosial (kelas malam);0.3714;Prioritas;0.1241;Aman;-0.2473
+MHS0733;9070;20;0;0;1;0;Desain Komunikasi;0.1288;Aman;0.1221;Aman;-0.0067
+MHS0218;9853;20;0;0;1;0;Pendidikan Dasar;0.3777;Prioritas;0.1221;Aman;-0.2556
+MHS0002;9853;18;0;0;1;0;Pendidikan Dasar;0.6151;Prioritas;0.1214;Aman;-0.4937
+MHS0052;9853;18;0;0;1;0;Pendidikan Dasar;0.4499;Prioritas;0.1209;Aman;-0.329
+MHS0167;9773;18;0;0;1;0;Jurnalisme dan Komunikasi;0.1459;Aman;0.1207;Aman;-0.0252
+MHS0348;9085;18;0;0;1;0;Keperawatan Hewan;0.3064;Prioritas;0.1206;Aman;-0.1858
+MHS0407;9119;19;1;0;1;0;Teknik Informatika;0.8645;Kritis;0.1202;Aman;-0.7443
+MHS0791;9853;18;1;0;1;0;Pendidikan Dasar;0.6882;Kritis;0.1199;Aman;-0.5683
+MHS0500;8014;45;0;0;1;0;Pekerjaan Sosial (kelas malam);0.2412;Prioritas;0.1195;Aman;-0.1217
+MHS0050;9500;20;0;0;1;0;Keperawatan;0.1802;Aman;0.1195;Aman;-0.0607
+MHS0722;9003;22;0;0;1;0;Agronomi;0.3723;Prioritas;0.1191;Aman;-0.2532
+MHS0304;9500;18;1;0;1;0;Keperawatan;0.223;Prioritas;0.1167;Aman;-0.1063
+MHS0230;9147;18;1;0;1;0;Manajemen;0.6612;Kritis;0.1167;Aman;-0.5445
+MHS0109;9003;20;0;1;1;0;Agronomi;0.331;Prioritas;0.1157;Aman;-0.2153
+MHS0379;9773;19;1;0;1;1;Jurnalisme dan Komunikasi;0.2183;Aman;0.1156;Aman;-0.1027
+MHS0677;9119;28;1;0;1;1;Teknik Informatika;0.592;Prioritas;0.1134;Aman;-0.4786
+MHS0250;9147;18;1;0;1;0;Manajemen;0.5089;Prioritas;0.113;Aman;-0.3959
+MHS0006;9500;19;1;0;1;0;Keperawatan;0.3458;Prioritas;0.1126;Aman;-0.2332
+MHS0704;9773;20;0;0;1;0;Jurnalisme dan Komunikasi;0.31;Prioritas;0.1123;Aman;-0.1977
+MHS0591;9500;23;0;0;1;0;Keperawatan;0.1723;Aman;0.1122;Aman;-0.0601
+MHS0244;9147;20;1;0;1;0;Manajemen;0.4034;Prioritas;0.1119;Aman;-0.2915
+MHS0755;9085;20;0;0;1;0;Keperawatan Hewan;0.3534;Prioritas;0.1109;Aman;-0.2425
+MHS0521;9147;50;0;0;1;0;Manajemen;0.6257;Prioritas;0.1105;Aman;-0.5152
+MHS0172;9991;41;1;0;1;1;Manajemen (kelas malam);0.3447;Prioritas;0.1101;Aman;-0.2346
+MHS0371;9500;18;0;0;1;0;Keperawatan;0.3055;Prioritas;0.1072;Aman;-0.1983
+MHS0556;9853;20;0;0;1;1;Pendidikan Dasar;0.2159;Aman;0.1069;Aman;-0.109
+MHS0174;9500;20;0;0;1;1;Keperawatan;0.0266;Aman;0.1068;Aman;0.0802
+MHS0323;9003;24;1;1;1;0;Agronomi;0.7595;Kritis;0.1065;Aman;-0.653
+MHS0072;9070;18;0;0;1;1;Desain Komunikasi;0.0443;Aman;0.1049;Aman;0.0606
+MHS0140;9853;20;0;0;1;0;Pendidikan Dasar;0.5704;Prioritas;0.1049;Aman;-0.4655
+MHS0683;9500;19;0;0;1;1;Keperawatan;0.0504;Aman;0.1046;Aman;0.0542
+MHS0475;9070;26;1;0;1;0;Desain Komunikasi;0.4035;Prioritas;0.1044;Aman;-0.2991
+MHS0010;9500;19;0;0;1;1;Keperawatan;0.0201;Aman;0.104;Aman;0.0839
+MHS0202;9853;18;0;0;1;0;Pendidikan Dasar;0.6074;Prioritas;0.1035;Aman;-0.5039
+MHS0741;9556;22;0;0;1;0;Kesehatan Gigi dan Mulut;0.3371;Prioritas;0.1032;Aman;-0.2339
+MHS0058;8014;20;0;0;1;0;Pekerjaan Sosial (kelas malam);0.1159;Aman;0.1029;Aman;-0.013
+MHS0317;9670;21;1;0;1;0;Manajemen Periklanan dan Pemasaran;0.2009;Aman;0.1003;Aman;-0.1006
+MHS0506;9670;19;0;0;1;0;Manajemen Periklanan dan Pemasaran;0.2544;Prioritas;0.0991;Aman;-0.1553
+MHS0048;9003;24;0;0;1;0;Agronomi;0.2605;Prioritas;0.0991;Aman;-0.1614
+MHS0376;9070;18;0;0;1;1;Desain Komunikasi;0.069;Aman;0.098;Aman;0.029
+MHS0567;9147;20;0;0;1;0;Manajemen;0.5019;Prioritas;0.0971;Aman;-0.4048
+MHS0405;9070;18;1;0;1;0;Desain Komunikasi;0.498;Prioritas;0.097;Aman;-0.401
+MHS0204;9238;20;0;0;1;1;Pekerjaan Sosial;0.0847;Aman;0.0958;Aman;0.0111
+MHS0422;9670;20;1;0;1;0;Manajemen Periklanan dan Pemasaran;0.3003;Prioritas;0.0951;Aman;-0.2052
+MHS0504;9500;19;0;0;1;1;Keperawatan;0.0679;Aman;0.0948;Aman;0.0269
+MHS0254;9003;28;1;0;1;0;Agronomi;0.3897;Prioritas;0.0932;Aman;-0.2965
+MHS0412;9119;20;1;0;1;0;Teknik Informatika;0.7413;Kritis;0.0928;Aman;-0.6485
+MHS0569;9500;18;0;0;1;0;Keperawatan;0.1734;Aman;0.0926;Aman;-0.0808
+MHS0531;9991;36;0;0;1;0;Manajemen (kelas malam);0.4579;Prioritas;0.0925;Aman;-0.3654
+MHS0083;9853;20;0;0;1;0;Pendidikan Dasar;0.4896;Prioritas;0.0924;Aman;-0.3972
+MHS0354;9670;18;0;0;1;0;Manajemen Periklanan dan Pemasaran;0.1473;Aman;0.0913;Aman;-0.056
+MHS0765;9070;18;0;0;1;0;Desain Komunikasi;0.1789;Aman;0.0913;Aman;-0.0876
+MHS0542;9147;20;0;0;1;0;Manajemen;0.5157;Prioritas;0.0906;Aman;-0.4251
+MHS0211;9773;18;0;0;1;0;Jurnalisme dan Komunikasi;0.3508;Prioritas;0.0901;Aman;-0.2607
+MHS0489;9556;25;0;0;1;0;Kesehatan Gigi dan Mulut;0.552;Prioritas;0.0879;Aman;-0.4641
+MHS0240;9254;18;0;0;1;1;Pariwisata;0.1016;Aman;0.0859;Aman;-0.0157
+MHS0150;9085;20;0;0;1;0;Keperawatan Hewan;0.1056;Aman;0.0859;Aman;-0.0197
+MHS0675;9119;24;1;0;1;1;Teknik Informatika;0.5693;Prioritas;0.0854;Aman;-0.4839
+MHS0478;9500;43;1;0;1;0;Keperawatan;0.5045;Prioritas;0.085;Aman;-0.4195
+MHS0291;9773;19;0;0;1;0;Jurnalisme dan Komunikasi;0.2556;Prioritas;0.0849;Aman;-0.1707
+MHS0586;9991;35;0;0;1;1;Manajemen (kelas malam);0.27;Prioritas;0.0848;Aman;-0.1852
+MHS0084;9238;21;0;0;1;1;Pekerjaan Sosial;0.0314;Aman;0.0847;Aman;0.0533
+MHS0199;9991;24;1;0;1;0;Manajemen (kelas malam);0.7101;Kritis;0.0826;Aman;-0.6275
+MHS0137;9130;20;0;0;1;0;Manajemen Kuda;0.5378;Prioritas;0.0824;Aman;-0.4554
+MHS0612;9670;20;0;0;1;0;Manajemen Periklanan dan Pemasaran;0.2582;Prioritas;0.0822;Aman;-0.176
+MHS0165;9500;34;0;0;1;0;Keperawatan;0.3151;Prioritas;0.0818;Aman;-0.2333
+MHS0016;9254;26;1;0;1;0;Pariwisata;0.8417;Kritis;0.0807;Aman;-0.761
+MHS0474;9670;20;1;0;1;0;Manajemen Periklanan dan Pemasaran;0.321;Prioritas;0.0806;Aman;-0.2404
+MHS0040;9556;25;0;0;1;0;Kesehatan Gigi dan Mulut;0.5152;Prioritas;0.0806;Aman;-0.4346
+MHS0476;9500;20;1;0;1;0;Keperawatan;0.2395;Prioritas;0.0804;Aman;-0.1591
+MHS0275;9147;18;0;0;1;0;Manajemen;0.3095;Prioritas;0.0801;Aman;-0.2294
+MHS0588;9147;30;0;0;1;0;Manajemen;0.2195;Aman;0.0793;Aman;-0.1402
+MHS0241;9500;18;0;0;1;1;Keperawatan;0.026;Aman;0.0789;Aman;0.0529
+MHS0128;9991;37;1;0;1;0;Manajemen (kelas malam);0.6077;Prioritas;0.0787;Aman;-0.529
+MHS0296;9147;19;1;0;1;0;Manajemen;0.4247;Prioritas;0.0783;Aman;-0.3464
+MHS0517;9070;18;0;0;1;0;Desain Komunikasi;0.1489;Aman;0.0775;Aman;-0.0714
+MHS0197;9147;19;0;0;1;0;Manajemen;0.3656;Prioritas;0.0775;Aman;-0.2881
+MHS0096;9119;18;1;0;1;1;Teknik Informatika;0.3942;Prioritas;0.0772;Aman;-0.317
+MHS0019;9147;23;1;0;1;0;Manajemen;0.4646;Prioritas;0.077;Aman;-0.3876
+MHS0420;9003;20;1;0;1;0;Agronomi;0.362;Prioritas;0.0765;Aman;-0.2855
+MHS0431;9003;24;1;0;1;0;Agronomi;0.171;Aman;0.0762;Aman;-0.0948
+MHS0088;9085;20;0;0;1;0;Keperawatan Hewan;0.2692;Prioritas;0.0756;Aman;-0.1936
+MHS0005;9085;18;0;0;1;0;Keperawatan Hewan;0.1466;Aman;0.0748;Aman;-0.0718
+MHS0592;9500;18;0;0;1;1;Keperawatan;0.0636;Aman;0.0745;Aman;0.0109
+MHS0203;9003;37;0;1;1;0;Agronomi;0.6101;Prioritas;0.0731;Aman;-0.537
+MHS0587;9500;26;0;0;1;0;Keperawatan;0.0919;Aman;0.0729;Aman;-0.019
+MHS0186;9500;20;0;0;1;1;Keperawatan;0.0346;Aman;0.0727;Aman;0.0381
+MHS0671;9070;18;1;0;1;0;Desain Komunikasi;0.4903;Prioritas;0.0722;Aman;-0.4181
+MHS0668;9147;26;1;0;1;0;Manajemen;0.6567;Kritis;0.0719;Aman;-0.5848
+MHS0739;9254;18;0;0;1;0;Pariwisata;0.4495;Prioritas;0.0716;Aman;-0.3779
+MHS0546;9500;18;0;0;1;0;Keperawatan;0.2388;Prioritas;0.0716;Aman;-0.1672
+MHS0029;9500;20;0;0;1;1;Keperawatan;0.0459;Aman;0.0715;Aman;0.0256
+MHS0075;9254;19;0;0;1;0;Pariwisata;0.258;Prioritas;0.0706;Aman;-0.1874
+MHS0615;9670;19;0;0;1;0;Manajemen Periklanan dan Pemasaran;0.2124;Aman;0.0703;Aman;-0.1421
+MHS0077;9254;20;0;0;1;1;Pariwisata;0.19;Aman;0.0699;Aman;-0.1201
+MHS0559;9670;19;0;0;1;0;Manajemen Periklanan dan Pemasaran;0.1227;Aman;0.0697;Aman;-0.053
+MHS0105;9991;28;0;0;1;1;Manajemen (kelas malam);0.1991;Aman;0.0689;Aman;-0.1302
+MHS0636;9991;34;1;0;1;0;Manajemen (kelas malam);0.6484;Prioritas;0.0682;Aman;-0.5802
+MHS0545;9773;18;0;0;1;0;Jurnalisme dan Komunikasi;0.2016;Aman;0.0679;Aman;-0.1337
+MHS0442;9254;23;1;0;1;0;Pariwisata;0.3422;Prioritas;0.0677;Aman;-0.2745
+MHS0253;9670;25;0;0;1;1;Manajemen Periklanan dan Pemasaran;0.1757;Aman;0.0675;Aman;-0.1082
+MHS0518;9147;18;0;0;1;0;Manajemen;0.4534;Prioritas;0.0674;Aman;-0.386
+MHS0041;9500;19;0;0;1;0;Keperawatan;0.1773;Aman;0.0671;Aman;-0.1102
+MHS0685;9003;19;1;0;1;0;Agronomi;0.2972;Prioritas;0.0653;Aman;-0.2319
+MHS0665;9085;20;0;0;1;0;Keperawatan Hewan;0.3279;Prioritas;0.0653;Aman;-0.2626
+MHS0256;9500;27;0;0;1;0;Keperawatan;0.2738;Prioritas;0.0648;Aman;-0.209
+MHS0138;9500;19;0;0;1;0;Keperawatan;0.1377;Aman;0.0643;Aman;-0.0734
+MHS0229;9085;20;0;0;1;0;Keperawatan Hewan;0.1814;Aman;0.0637;Aman;-0.1177
+MHS0477;9853;20;1;0;1;1;Pendidikan Dasar;0.3682;Prioritas;0.0628;Aman;-0.3054
+MHS0623;9991;24;0;0;1;0;Manajemen (kelas malam);0.474;Prioritas;0.0626;Aman;-0.4114
+MHS0213;9070;20;1;0;1;1;Desain Komunikasi;0.0729;Aman;0.0613;Aman;-0.0116
+MHS0788;9500;32;0;0;1;0;Keperawatan;0.2951;Prioritas;0.061;Aman;-0.2341
+MHS0285;9085;18;1;0;1;0;Keperawatan Hewan;0.5664;Prioritas;0.0591;Aman;-0.5073
+MHS0284;9773;18;1;0;1;0;Jurnalisme dan Komunikasi;0.3843;Prioritas;0.0588;Aman;-0.3255
+MHS0146;9070;20;0;0;1;0;Desain Komunikasi;0.1947;Aman;0.0586;Aman;-0.1361
+MHS0770;9254;25;1;0;1;0;Pariwisata;0.3561;Prioritas;0.0585;Aman;-0.2976
+MHS0043;9070;19;0;0;1;0;Desain Komunikasi;0.1441;Aman;0.0584;Aman;-0.0857
+MHS0729;9500;25;0;0;1;1;Keperawatan;0.1162;Aman;0.0583;Aman;-0.0579
+MHS0687;9500;18;0;0;1;0;Keperawatan;0.1301;Aman;0.0582;Aman;-0.0719
+MHS0003;9556;20;0;0;1;0;Kesehatan Gigi dan Mulut;0.3803;Prioritas;0.0578;Aman;-0.3225
+MHS0394;9500;19;1;0;1;1;Keperawatan;0.1378;Aman;0.0558;Aman;-0.082
+MHS0081;9147;19;0;0;1;0;Manajemen;0.2655;Prioritas;0.0557;Aman;-0.2098
+MHS0453;9070;20;0;0;1;1;Desain Komunikasi;0.0691;Aman;0.0551;Aman;-0.014
+MHS0773;9556;24;1;0;1;1;Kesehatan Gigi dan Mulut;0.4086;Prioritas;0.0551;Aman;-0.3535
+MHS0785;9500;18;1;0;1;0;Keperawatan;0.1914;Aman;0.0545;Aman;-0.1369
+MHS0532;8014;48;0;0;1;1;Pekerjaan Sosial (kelas malam);0.1547;Aman;0.0538;Aman;-0.1009
+MHS0356;9254;21;0;0;1;0;Pariwisata;0.4015;Prioritas;0.0536;Aman;-0.3479
+MHS0536;9556;28;0;0;1;0;Kesehatan Gigi dan Mulut;0.2006;Aman;0.0532;Aman;-0.1474
+MHS0136;9147;20;1;0;1;0;Manajemen;0.4764;Prioritas;0.0526;Aman;-0.4238
+MHS0237;9130;18;0;0;1;0;Manajemen Kuda;0.3588;Prioritas;0.0523;Aman;-0.3065
+MHS0214;9119;18;1;0;1;1;Teknik Informatika;0.4008;Prioritas;0.0522;Aman;-0.3486
+MHS0288;9991;27;0;0;1;0;Manajemen (kelas malam);0.4042;Prioritas;0.0521;Aman;-0.3521
+MHS0130;9254;23;1;0;1;0;Pariwisata;0.4718;Prioritas;0.0521;Aman;-0.4197
+MHS0022;9085;19;0;0;1;0;Keperawatan Hewan;0.2421;Prioritas;0.052;Aman;-0.1901
+MHS0563;9500;21;0;0;1;0;Keperawatan;0.2239;Prioritas;0.052;Aman;-0.1719
+MHS0789;9147;18;0;0;1;0;Manajemen;0.2655;Prioritas;0.0513;Aman;-0.2142
+MHS0382;9119;20;1;0;1;1;Teknik Informatika;0.3631;Prioritas;0.0509;Aman;-0.3122
+MHS0408;9070;22;1;0;1;1;Desain Komunikasi;0.0922;Aman;0.0505;Aman;-0.0417
+MHS0732;9147;19;0;0;1;0;Manajemen;0.2709;Prioritas;0.0503;Aman;-0.2206
+MHS0629;9500;19;0;0;1;1;Keperawatan;0.0535;Aman;0.0495;Aman;-0.004
+MHS0166;9991;31;0;0;1;0;Manajemen (kelas malam);0.2663;Prioritas;0.0494;Aman;-0.2169
+MHS0602;8014;26;1;0;1;0;Pekerjaan Sosial (kelas malam);0.2029;Aman;0.0493;Aman;-0.1536
+MHS0080;9254;20;0;0;1;1;Pariwisata;0.0859;Aman;0.0491;Aman;-0.0368
+MHS0397;9670;19;1;0;1;1;Manajemen Periklanan dan Pemasaran;0.1226;Aman;0.0487;Aman;-0.0739
+MHS0511;9670;18;0;0;1;0;Manajemen Periklanan dan Pemasaran;0.2223;Prioritas;0.0486;Aman;-0.1737
+MHS0028;9853;18;0;0;1;1;Pendidikan Dasar;0.1332;Aman;0.0484;Aman;-0.0848
+MHS0594;9254;20;1;0;1;0;Pariwisata;0.3882;Prioritas;0.0483;Aman;-0.3399
+MHS0543;9500;24;0;0;1;0;Keperawatan;0.2929;Prioritas;0.0483;Aman;-0.2446
+MHS0724;8014;20;0;0;1;0;Pekerjaan Sosial (kelas malam);0.1888;Aman;0.048;Aman;-0.1408
+MHS0271;8014;45;0;0;1;0;Pekerjaan Sosial (kelas malam);0.0914;Aman;0.0478;Aman;-0.0436
+MHS0694;9254;20;0;0;1;1;Pariwisata;0.1373;Aman;0.0477;Aman;-0.0896
+MHS0224;9500;27;0;0;1;1;Keperawatan;0.0793;Aman;0.0476;Aman;-0.0317
+MHS0155;9085;18;0;0;1;0;Keperawatan Hewan;0.2322;Prioritas;0.0474;Aman;-0.1848
+MHS0111;9147;20;0;0;1;0;Manajemen;0.4657;Prioritas;0.0463;Aman;-0.4194
+MHS0558;9773;18;0;0;1;0;Jurnalisme dan Komunikasi;0.322;Prioritas;0.0457;Aman;-0.2763
+MHS0618;9773;19;0;0;1;0;Jurnalisme dan Komunikasi;0.2147;Aman;0.0456;Aman;-0.1691
+MHS0721;9070;19;0;0;1;0;Desain Komunikasi;0.1057;Aman;0.0452;Aman;-0.0605
+MHS0053;9085;18;0;0;1;0;Keperawatan Hewan;0.1451;Aman;0.045;Aman;-0.1001
+MHS0718;171;19;1;0;1;1;Desain Animasi dan Multimedia;0.1255;Aman;0.045;Aman;-0.0805
+MHS0025;9500;20;0;0;1;0;Keperawatan;0.184;Aman;0.0449;Aman;-0.1391
+MHS0604;9147;21;0;0;1;0;Manajemen;0.2235;Prioritas;0.044;Aman;-0.1795
+MHS0205;9500;18;0;0;1;1;Keperawatan;0.0488;Aman;0.0439;Aman;-0.0049
+MHS0725;9238;31;0;0;1;0;Pekerjaan Sosial;0.2801;Prioritas;0.0436;Aman;-0.2365
+MHS0731;9556;20;0;0;1;0;Kesehatan Gigi dan Mulut;0.3561;Prioritas;0.0431;Aman;-0.313
+MHS0513;9147;19;0;0;1;1;Manajemen;0.1067;Aman;0.0431;Aman;-0.0636
+MHS0515;9670;19;0;0;1;1;Manajemen Periklanan dan Pemasaran;0.1439;Aman;0.0428;Aman;-0.1011
+MHS0557;9238;19;0;0;1;0;Pekerjaan Sosial;0.0817;Aman;0.0423;Aman;-0.0394
+MHS0228;9238;20;0;0;1;1;Pekerjaan Sosial;0.0397;Aman;0.0422;Aman;0.0025
+MHS0573;9238;19;0;0;1;1;Pekerjaan Sosial;0.0971;Aman;0.0416;Aman;-0.0555
+MHS0621;9556;19;0;0;1;0;Kesehatan Gigi dan Mulut;0.3518;Prioritas;0.0411;Aman;-0.3107
+MHS0440;9003;20;1;0;1;1;Agronomi;0.1362;Aman;0.0407;Aman;-0.0955
+MHS0720;9500;18;0;0;1;0;Keperawatan;0.0959;Aman;0.0406;Aman;-0.0553
+MHS0410;9500;27;1;0;1;0;Keperawatan;0.3419;Prioritas;0.0405;Aman;-0.3014
+MHS0045;9070;18;0;0;1;0;Desain Komunikasi;0.2171;Aman;0.0402;Aman;-0.1769
+MHS0697;9670;18;0;0;1;0;Manajemen Periklanan dan Pemasaran;0.1682;Aman;0.0402;Aman;-0.128
+MHS0717;9991;38;0;0;1;1;Manajemen (kelas malam);0.0941;Aman;0.0401;Aman;-0.054
+MHS0286;8014;54;1;0;1;0;Pekerjaan Sosial (kelas malam);0.2444;Prioritas;0.0399;Aman;-0.2045
+MHS0645;9070;19;1;0;1;0;Desain Komunikasi;0.2189;Aman;0.0397;Aman;-0.1792
+MHS0067;9500;20;0;0;1;0;Keperawatan;0.4578;Prioritas;0.0393;Aman;-0.4185
+MHS0328;9147;18;0;0;1;1;Manajemen;0.0875;Aman;0.0388;Aman;-0.0487
+MHS0036;9991;26;0;0;1;1;Manajemen (kelas malam);0.1402;Aman;0.0379;Aman;-0.1023
+MHS0437;171;21;1;0;1;0;Desain Animasi dan Multimedia;0.1647;Aman;0.0373;Aman;-0.1274
+MHS0764;9500;20;1;0;1;0;Keperawatan;0.238;Prioritas;0.0372;Aman;-0.2008
+MHS0650;9500;18;1;0;1;0;Keperawatan;0.3225;Prioritas;0.037;Aman;-0.2855
+MHS0201;9500;45;0;0;1;0;Keperawatan;0.3256;Prioritas;0.0368;Aman;-0.2888
+MHS0449;9130;18;0;0;1;1;Manajemen Kuda;0.0908;Aman;0.0353;Aman;-0.0555
+MHS0232;9130;20;0;0;1;0;Manajemen Kuda;0.3581;Prioritas;0.0351;Aman;-0.323
+MHS0471;9500;19;1;0;1;0;Keperawatan;0.1927;Aman;0.0343;Aman;-0.1584
+MHS0148;9070;20;0;0;1;0;Desain Komunikasi;0.2046;Aman;0.0342;Aman;-0.1704
+MHS0177;9070;18;0;0;1;1;Desain Komunikasi;0.0433;Aman;0.034;Aman;-0.0093
+MHS0549;9773;19;0;0;1;0;Jurnalisme dan Komunikasi;0.1887;Aman;0.0335;Aman;-0.1552
+MHS0508;9238;20;0;0;1;0;Pekerjaan Sosial;0.106;Aman;0.0329;Aman;-0.0731
+MHS0106;9670;19;0;0;1;0;Manajemen Periklanan dan Pemasaran;0.3685;Prioritas;0.0318;Aman;-0.3367
+MHS0759;9773;18;0;0;1;0;Jurnalisme dan Komunikasi;0.3115;Prioritas;0.0314;Aman;-0.2801
+MHS0590;9500;18;0;0;1;0;Keperawatan;0.1478;Aman;0.0305;Aman;-0.1173
+MHS0736;9500;24;0;0;1;1;Keperawatan;0.0582;Aman;0.0304;Aman;-0.0278
+MHS0117;9500;18;0;0;1;0;Keperawatan;0.1266;Aman;0.0303;Aman;-0.0963
+MHS0047;9070;18;0;0;1;0;Desain Komunikasi;0.2591;Prioritas;0.0296;Aman;-0.2295
+MHS0046;9500;18;0;0;1;1;Keperawatan;0.0216;Aman;0.0287;Aman;0.0071
+MHS0606;9500;19;0;0;1;1;Keperawatan;0.0364;Aman;0.0281;Aman;-0.0083
+MHS0495;9500;20;0;0;1;0;Keperawatan;0.1631;Aman;0.0276;Aman;-0.1355
+MHS0745;9500;18;0;0;1;1;Keperawatan;0.0415;Aman;0.0275;Aman;-0.014
+MHS0287;9500;19;0;0;1;0;Keperawatan;0.1296;Aman;0.0274;Aman;-0.1022

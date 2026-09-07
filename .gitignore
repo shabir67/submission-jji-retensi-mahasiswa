@@ -1,0 +1,18 @@
+# Berkas basis data Metabase dan SQLite tidak diunggah ke GitHub karena ukurannya
+# besar dan tidak dibutuhkan oleh Streamlit Community Cloud. Keduanya tetap wajib
+# disertakan di dalam berkas ZIP submission.
+metabase.db.mv.db
+metabase.db.trace.db
+akademik_jji.db
+
+# Berkas sementara
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.DS_Store
+
+# Berkas besar yang hanya disertakan di dalam ZIP submission, bukan di GitHub
+# (GitHub menolak berkas di atas 100 MB dan Streamlit Cloud tidak memerlukannya)
+*.mov
+Catatan dari Reviewer.pdf

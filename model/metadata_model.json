@@ -1,0 +1,465 @@
+{
+  "identitas": {
+    "nama": "Muhammad Shobir Abdussyakur",
+    "id_dicoding": "souba676",
+    "proyek": "Sistem peringatan dini dua horizon untuk retensi mahasiswa",
+    "versi": "1.0.0"
+  },
+  "data": {
+    "sumber": "https://github.com/dicodingacademy/dicoding_dataset/tree/main/students_performance",
+    "baris_total": 4424,
+    "baris_berlabel": 3630,
+    "baris_latih": 2904,
+    "baris_uji": 726,
+    "baris_aktif": 794,
+    "prevalensi_dropout_berlabel": 0.3915
+  },
+  "biaya": {
+    "melewatkan_dropout": 3.0,
+    "membimbing_yang_lulus": 1.0,
+    "catatan": "Perbandingan biaya adalah keputusan kebijakan, bukan hasil estimasi data."
+  },
+  "batas_kritis": 0.65,
+  "pita_risiko": [
+    "Aman",
+    "Prioritas",
+    "Kritis"
+  ],
+  "horizon": {
+    "gerbang": {
+      "nama_model": "Regresi Logistik",
+      "kalibrasi": "Platt scaling, lima lipatan, tanpa ensemble",
+      "kolom_mentah": [
+        "Marital_status",
+        "Application_mode",
+        "Application_order",
+        "Course",
+        "Daytime_evening_attendance",
+        "Previous_qualification",
+        "Previous_qualification_grade",
+        "Nacionality",
+        "Mothers_qualification",
+        "Fathers_qualification",
+        "Mothers_occupation",
+        "Fathers_occupation",
+        "Admission_grade",
+        "Displaced",
+        "Educational_special_needs",
+        "Debtor",
+        "Tuition_fees_up_to_date",
+        "Gender",
+        "Scholarship_holder",
+        "Age_at_enrollment",
+        "International",
+        "Unemployment_rate",
+        "Inflation_rate",
+        "GDP"
+      ],
+      "fitur_turunan": [
+        "selisih_adaptasi",
+        "jeda_masuk",
+        "dukungan_finansial",
+        "pilihan_pertama"
+      ],
+      "ambang_keputusan": 0.22,
+      "metrik_uji": {
+        "ambang": 0.22,
+        "akurasi": 0.7107,
+        "presisi": 0.5885,
+        "recall": 0.8662,
+        "f1": 0.7009,
+        "roc_auc": 0.8646,
+        "pr_auc": 0.8409,
+        "brier": 0.1403
+      },
+      "kepentingan_blok": {
+        "Finansial": 0.2571,
+        "Riwayat pendaftaran": 0.0928,
+        "Demografi": 0.0262,
+        "Latar keluarga": 0.0224,
+        "Kondisi makroekonomi": 0.0052
+      },
+      "parameter_terpilih": {
+        "model__C": "0.3",
+        "pra__kategori__min_frequency": "10"
+      }
+    },
+    "tahun_pertama": {
+      "nama_model": "Extra Trees",
+      "kalibrasi": "Platt scaling, lima lipatan, tanpa ensemble",
+      "kolom_mentah": [
+        "Marital_status",
+        "Application_mode",
+        "Application_order",
+        "Course",
+        "Daytime_evening_attendance",
+        "Previous_qualification",
+        "Previous_qualification_grade",
+        "Nacionality",
+        "Mothers_qualification",
+        "Fathers_qualification",
+        "Mothers_occupation",
+        "Fathers_occupation",
+        "Admission_grade",
+        "Displaced",
+        "Educational_special_needs",
+        "Debtor",
+        "Tuition_fees_up_to_date",
+        "Gender",
+        "Scholarship_holder",
+        "Age_at_enrollment",
+        "International",
+        "Unemployment_rate",
+        "Inflation_rate",
+        "GDP",
+        "Curricular_units_1st_sem_credited",
+        "Curricular_units_1st_sem_enrolled",
+        "Curricular_units_1st_sem_evaluations",
+        "Curricular_units_1st_sem_approved",
+        "Curricular_units_1st_sem_grade",
+        "Curricular_units_1st_sem_without_evaluations",
+        "Curricular_units_2nd_sem_credited",
+        "Curricular_units_2nd_sem_enrolled",
+        "Curricular_units_2nd_sem_evaluations",
+        "Curricular_units_2nd_sem_approved",
+        "Curricular_units_2nd_sem_grade",
+        "Curricular_units_2nd_sem_without_evaluations"
+      ],
+      "fitur_turunan": [
+        "selisih_adaptasi",
+        "jeda_masuk",
+        "dukungan_finansial",
+        "pilihan_pertama",
+        "beban_sks_th1",
+        "sks_lulus_th1",
+        "daya_selesai_th1",
+        "daya_selesai_sem1",
+        "daya_selesai_sem2",
+        "efisiensi_ujian",
+        "nilai_tertimbang",
+        "laju_nilai",
+        "mk_tanpa_evaluasi",
+        "sks_diakui",
+        "tanpa_beban_studi"
+      ],
+      "ambang_keputusan": 0.4,
+      "metrik_uji": {
+        "ambang": 0.4,
+        "akurasi": 0.9063,
+        "presisi": 0.906,
+        "recall": 0.8486,
+        "f1": 0.8764,
+        "roc_auc": 0.9542,
+        "pr_auc": 0.9521,
+        "brier": 0.068
+      },
+      "kepentingan_blok": {
+        "Akademik tahun pertama": 0.4739,
+        "Finansial": 0.0421,
+        "Riwayat pendaftaran": 0.0025,
+        "Demografi": 0.0017,
+        "Latar keluarga": -0.0012,
+        "Kondisi makroekonomi": 0.0016
+      },
+      "parameter_terpilih": {
+        "model__n_estimators": "300",
+        "model__min_samples_leaf": "2",
+        "model__max_features": "sqrt"
+      }
+    }
+  },
+  "nilai_bawaan": {
+    "Marital_status": 1,
+    "Application_mode": 1,
+    "Application_order": 1.0,
+    "Course": 9500,
+    "Daytime_evening_attendance": 1,
+    "Previous_qualification": 1,
+    "Previous_qualification_grade": 133.1,
+    "Nacionality": 1,
+    "Mothers_qualification": 1,
+    "Fathers_qualification": 37,
+    "Mothers_occupation": 9,
+    "Fathers_occupation": 9,
+    "Admission_grade": 126.1,
+    "Displaced": 1,
+    "Educational_special_needs": 0,
+    "Debtor": 0,
+    "Tuition_fees_up_to_date": 1,
+    "Gender": 0,
+    "Scholarship_holder": 0,
+    "Age_at_enrollment": 20.0,
+    "International": 0,
+    "Unemployment_rate": 11.1,
+    "Inflation_rate": 1.4,
+    "GDP": 0.32,
+    "Curricular_units_1st_sem_credited": 0.0,
+    "Curricular_units_1st_sem_enrolled": 6.0,
+    "Curricular_units_1st_sem_evaluations": 8.0,
+    "Curricular_units_1st_sem_approved": 5.0,
+    "Curricular_units_1st_sem_grade": 12.286,
+    "Curricular_units_1st_sem_without_evaluations": 0.0,
+    "Curricular_units_2nd_sem_credited": 0.0,
+    "Curricular_units_2nd_sem_enrolled": 6.0,
+    "Curricular_units_2nd_sem_evaluations": 8.0,
+    "Curricular_units_2nd_sem_approved": 5.0,
+    "Curricular_units_2nd_sem_grade": 12.2,
+    "Curricular_units_2nd_sem_without_evaluations": 0.0
+  },
+  "rentang": {
+    "Marital_status": {
+      "min": 1.0,
+      "max": 6.0
+    },
+    "Application_mode": {
+      "min": 1.0,
+      "max": 57.0
+    },
+    "Application_order": {
+      "min": 0.0,
+      "max": 9.0
+    },
+    "Course": {
+      "min": 33.0,
+      "max": 9991.0
+    },
+    "Daytime_evening_attendance": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "Previous_qualification": {
+      "min": 1.0,
+      "max": 43.0
+    },
+    "Previous_qualification_grade": {
+      "min": 95.0,
+      "max": 190.0
+    },
+    "Nacionality": {
+      "min": 1.0,
+      "max": 109.0
+    },
+    "Mothers_qualification": {
+      "min": 1.0,
+      "max": 44.0
+    },
+    "Fathers_qualification": {
+      "min": 1.0,
+      "max": 44.0
+    },
+    "Mothers_occupation": {
+      "min": 0.0,
+      "max": 194.0
+    },
+    "Fathers_occupation": {
+      "min": 0.0,
+      "max": 195.0
+    },
+    "Admission_grade": {
+      "min": 95.0,
+      "max": 190.0
+    },
+    "Displaced": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "Educational_special_needs": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "Debtor": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "Tuition_fees_up_to_date": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "Gender": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "Scholarship_holder": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "Age_at_enrollment": {
+      "min": 17.0,
+      "max": 70.0
+    },
+    "International": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "Unemployment_rate": {
+      "min": 7.6,
+      "max": 16.2
+    },
+    "Inflation_rate": {
+      "min": -0.8,
+      "max": 3.7
+    },
+    "GDP": {
+      "min": -4.06,
+      "max": 3.51
+    },
+    "Curricular_units_1st_sem_credited": {
+      "min": 0.0,
+      "max": 20.0
+    },
+    "Curricular_units_1st_sem_enrolled": {
+      "min": 0.0,
+      "max": 26.0
+    },
+    "Curricular_units_1st_sem_evaluations": {
+      "min": 0.0,
+      "max": 45.0
+    },
+    "Curricular_units_1st_sem_approved": {
+      "min": 0.0,
+      "max": 26.0
+    },
+    "Curricular_units_1st_sem_grade": {
+      "min": 0.0,
+      "max": 18.875
+    },
+    "Curricular_units_1st_sem_without_evaluations": {
+      "min": 0.0,
+      "max": 12.0
+    },
+    "Curricular_units_2nd_sem_credited": {
+      "min": 0.0,
+      "max": 19.0
+    },
+    "Curricular_units_2nd_sem_enrolled": {
+      "min": 0.0,
+      "max": 23.0
+    },
+    "Curricular_units_2nd_sem_evaluations": {
+      "min": 0.0,
+      "max": 33.0
+    },
+    "Curricular_units_2nd_sem_approved": {
+      "min": 0.0,
+      "max": 20.0
+    },
+    "Curricular_units_2nd_sem_grade": {
+      "min": 0.0,
+      "max": 18.571428571428573
+    },
+    "Curricular_units_2nd_sem_without_evaluations": {
+      "min": 0.0,
+      "max": 12.0
+    }
+  },
+  "pilihan": {
+    "program_studi": {
+      "33": "Teknologi Produksi Biofuel",
+      "171": "Desain Animasi dan Multimedia",
+      "8014": "Pekerjaan Sosial (kelas malam)",
+      "9003": "Agronomi",
+      "9070": "Desain Komunikasi",
+      "9085": "Keperawatan Hewan",
+      "9119": "Teknik Informatika",
+      "9130": "Manajemen Kuda",
+      "9147": "Manajemen",
+      "9238": "Pekerjaan Sosial",
+      "9254": "Pariwisata",
+      "9500": "Keperawatan",
+      "9556": "Kesehatan Gigi dan Mulut",
+      "9670": "Manajemen Periklanan dan Pemasaran",
+      "9773": "Jurnalisme dan Komunikasi",
+      "9853": "Pendidikan Dasar",
+      "9991": "Manajemen (kelas malam)"
+    },
+    "jalur_masuk": {
+      "1": "Seleksi umum gelombang 1",
+      "2": "Jalur peraturan 612/93",
+      "5": "Kuota khusus wilayah Azores",
+      "7": "Sudah punya gelar perguruan tinggi lain",
+      "10": "Jalur peraturan 854-B/99",
+      "15": "Mahasiswa internasional (sarjana)",
+      "16": "Kuota khusus wilayah Madeira",
+      "17": "Seleksi umum gelombang 2",
+      "18": "Seleksi umum gelombang 3",
+      "26": "Peraturan 533-A/99 butir b2 (kurikulum berbeda)",
+      "27": "Peraturan 533-A/99 butir b3 (institusi lain)",
+      "39": "Jalur usia di atas 23 tahun",
+      "42": "Pindahan",
+      "43": "Pindah program studi",
+      "44": "Pemegang diploma spesialisasi teknologi",
+      "51": "Pindah institusi dan program studi",
+      "53": "Pemegang diploma siklus pendek",
+      "57": "Pindah institusi dan program studi (internasional)"
+    },
+    "status_nikah": {
+      "1": "Belum menikah",
+      "2": "Menikah",
+      "3": "Duda atau janda",
+      "4": "Bercerai",
+      "5": "Hidup bersama tanpa nikah",
+      "6": "Pisah secara hukum"
+    },
+    "kualifikasi_sebelumnya": {
+      "1": "Pendidikan menengah tuntas",
+      "2": "Sarjana",
+      "3": "Diploma perguruan tinggi",
+      "4": "Magister",
+      "5": "Doktor",
+      "6": "Pernah kuliah tanpa lulus",
+      "9": "Kelas 12 tidak tuntas",
+      "10": "Kelas 11 tidak tuntas",
+      "12": "Setara kelas 11 jalur lain",
+      "14": "Kelas 10 tuntas",
+      "15": "Kelas 10 tidak tuntas",
+      "19": "Pendidikan dasar siklus 3",
+      "38": "Pendidikan dasar siklus 2",
+      "39": "Kursus spesialisasi teknologi",
+      "40": "Sarjana siklus pertama",
+      "42": "Kursus teknis tinggi kejuruan",
+      "43": "Magister siklus kedua"
+    },
+    "jenjang_ibu": {
+      "Pendidikan dasar": 37,
+      "Menengah atas": 1,
+      "Perguruan tinggi": 3,
+      "Tidak bersekolah atau tidak diketahui": 34
+    },
+    "jenjang_ayah": {
+      "Menengah atas": 1,
+      "Perguruan tinggi": 3,
+      "Pendidikan dasar": 37,
+      "Tidak bersekolah atau tidak diketahui": 34
+    },
+    "pekerjaan_ibu": {
+      "Layanan personal dan penjualan": 5,
+      "Teknisi tingkat menengah": 3,
+      "Pekerja tanpa keahlian khusus": 9,
+      "Pekerja industri dan konstruksi": 7,
+      "Staf administrasi": 4,
+      "Direktur dan manajer": 1,
+      "Profesional dan ilmuwan": 2,
+      "Pelajar": 0,
+      "Pertanian, perikanan, kehutanan": 6,
+      "Situasi lain": 90,
+      "Operator mesin dan perakitan": 8,
+      "Tidak diketahui": 99,
+      "Angkatan bersenjata": 10
+    },
+    "pekerjaan_ayah": {
+      "Pekerja tanpa keahlian khusus": 9,
+      "Teknisi tingkat menengah": 3,
+      "Pekerja industri dan konstruksi": 7,
+      "Angkatan bersenjata": 10,
+      "Layanan personal dan penjualan": 5,
+      "Operator mesin dan perakitan": 8,
+      "Staf administrasi": 4,
+      "Direktur dan manajer": 1,
+      "Profesional dan ilmuwan": 2,
+      "Pertanian, perikanan, kehutanan": 6,
+      "Pelajar": 0,
+      "Situasi lain": 90,
+      "Tidak diketahui": 99
+    }
+  }
+}
